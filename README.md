@@ -1,0 +1,1 @@
+# syp_xml_xsd_architecture
