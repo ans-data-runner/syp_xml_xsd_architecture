@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  SYP Connect VA/VC - Reference XSD (DOCUMENTATION ONLY)
+  =======================================================
+  This schema is NOT used to drive or validate the runtime extraction in
+  flatten_xml.py, and it is not wired into any Synapse pipeline. It exists
+  purely as a quick visual reference for engineers and SMEs - to see the
+  generic container shape at a glance, and to compare against later form
+  variants to spot genuinely new structure (vs. just new field names, which
+  this design tolerates without any schema change at all).
+
+  Why it's deliberately loose:
+  The source format is a generic, field-driven form export from Connect
+  (Niche RMS) - the same handful of elements (CompoundRecord, SimpleRecord,
+  CompoundList, SimpleList, Primitive) are reused recursively for whatever
+  fields a given form happens to contain. A strict, fully-enumerated XSD
+  would describe one snapshot of one form version and would go stale the
+  first time a field is added, renamed, or a new form variant appears -
+  which the business has said should be expected during testing.
+
+  Built from direct analysis of EX172-sample-v1_0.xml (a Form_ConnectSR_VA
+  StoredReport export). Confirmed element/attribute names below were
+  observed directly; this is a representative reference, not an exhaustive
+  contract - see the design document, Section 9 (Field Dictionary) and
+  Section 11 (Open Questions).
+-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+  <!-- ========================================================= -->
+  <!-- Root -->
+  <!-- ========================================================= -->
+  <xs:element name="StoredReport">
+    <xs:complexType>
+      <xs:sequence>
+        <!-- Connect application/security metadata about the submitting
+             officer - not case data. Treated generically; not shredded
+             into pronto.xml_attribute by design. -->
+        <xs:element name="UserDetails" minOccurs="0" maxOccurs="unbounded" type="xs:anyType"/>
+        <xs:element name="ExportedAsset" minOccurs="0" type="xs:anyType"/>
+        <xs:element ref="DefaultPoleReportData"/>
+      </xs:sequence>
+      <!-- Observed root attributes: ID, baseID, creationDate, sourceBaseDocumentID,
+           sourceDocumentType, sourceExportedDocumentID, type (e.g.
+           "Form_ConnectSR_VA"), updatedDate, updatedUser, useType -->
+      <xs:anyAttribute processContents="lax"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="DefaultPoleReportData">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ExportedDocument" maxOccurs="unbounded"/>
+        <!-- Generic supporting lists at report level, e.g. childPoleDocs,
+             mergedReportIDs, otherNonPoleDocs, otherReferences,
+             secondaryEventDocs, subTrees, trees -->
+        <xs:element name="List" minOccurs="0" maxOccurs="unbounded" type="GenericListType"/>
+      </xs:sequence>
+      <xs:anyAttribute processContents="lax"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="ExportedDocument">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="UserDetails" minOccurs="0" type="xs:anyType"/>
+        <xs:element name="AssetDetails" minOccurs="0" type="xs:anyType"/>
+        <xs:element name="Properties" minOccurs="0" type="xs:anyType"/>
+        <xs:element ref="Document"/>
+      </xs:sequence>
+      <xs:anyAttribute processContents="lax"/>
+    </xs:complexType>
+  </xs:element>
+
+  <!--
+    Note (correction vs. an earlier ChatGPT-authored draft of this design):
+    in the sample analysed there is exactly ONE Document per ExportedDocument.
+    Person and Location are NOT separate Document siblings keyed by a
+    formName like "Connect_Person" / "Connect_Location" - they appear as
+    CompoundRecord elements (field="Person", field="Location") nested inside
+    this single Document's DocumentBody. If a wider sample later shows a
+    genuine multi-Document StoredReport, maxOccurs below can simply be
+    raised to "unbounded" - the generic record/attribute extraction model
+    already handles that without any other change.
+  -->
+  <xs:element name="Document">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="DocumentInfo" minOccurs="0" type="xs:anyType"/>
+        <xs:element ref="DocumentBody"/>
+      </xs:sequence>
+      <xs:anyAttribute processContents="lax"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="DocumentBody">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="CompoundRecord" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="CompoundList" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:anyAttribute processContents="lax"/>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- ========================================================= -->
+  <!-- Generic containers - reused recursively throughout the body.
+       The 'field' attribute is the only thing that gives each instance
+       business meaning (e.g. "Person", "Location", "VAQuestions",
+       "Investigation", "MO", "CnC", "EnquiryLog"); 'type' sometimes names a
+       relationship/result kind instead (e.g. "Rel_ConnectPersonInvolvedVA",
+       "OTA_SearchStamp", "InvolvedRef", "ConnectPerson_Disability").
+       Both are left open (xs:string) deliberately - new values are expected
+       and are NOT a schema violation. -->
+  <!-- ========================================================= -->
+
+  <xs:element name="CompoundRecord" type="CompoundRecordType"/>
+  <xs:element name="CompoundList" type="CompoundListType"/>
+  <xs:element name="SimpleRecord" type="xs:anyType"/>
+  <xs:element name="SimpleList" type="xs:anyType"/>
+  <xs:element name="Primitive" type="PrimitiveType"/>
+
+  <xs:complexType name="CompoundRecordType">
+    <xs:sequence>
+      <xs:element ref="Primitive" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element ref="SimpleRecord" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element ref="SimpleList" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element ref="CompoundRecord" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element ref="CompoundList" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="ID" type="xs:string" use="optional"/>
+    <xs:attribute name="field" type="xs:string" use="optional"/>
+    <xs:attribute name="type" type="xs:string" use="optional"/>
+    <xs:attribute name="content" type="xs:string" use="optional"/> <!-- e.g. "Complete" / "Incomplete" -->
+    <xs:attribute name="status" type="xs:string" use="optional"/>
+    <xs:attribute name="hidden" type="xs:boolean" use="optional"/>
+    <xs:attribute name="highlight" type="xs:boolean" use="optional"/>
+    <xs:anyAttribute processContents="lax"/>
+  </xs:complexType>
+
+  <xs:complexType name="CompoundListType">
+    <xs:sequence>
+      <xs:element ref="CompoundRecord" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="field" type="xs:string" use="optional"/>
+    <xs:anyAttribute processContents="lax"/>
+  </xs:complexType>
+
+  <!-- Leaf value. Plain fields carry their value as element text; pick-list
+       (dropdown/radio) fields nest a StructuredPickItem and ALSO expose the
+       human-readable answer via the 'text' attribute - the parser reads
+       'text' in preference to descending into PickValue, which is why
+       PickValue/StructuredPickItem are modelled loosely here. -->
+  <xs:complexType name="PrimitiveType" mixed="true">
+    <xs:sequence minOccurs="0">
+      <xs:element name="StructuredPickItem" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="PickValue" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:simpleContent>
+                  <xs:extension base="xs:string">
+                    <xs:attribute name="name" type="xs:string"/> <!-- "Value" or "Code" -->
+                  </xs:extension>
+                </xs:simpleContent>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <!-- Embedded link/search metadata, e.g. <KCXML><Link>...</Link></KCXML>.
+           Noise for reporting; left fully open. -->
+      <xs:element name="KCXML" minOccurs="0" type="xs:anyType"/>
+    </xs:sequence>
+    <xs:attribute name="field" type="xs:string" use="optional"/>
+    <xs:attribute name="kind" type="xs:string" use="optional"/> <!-- "SingleValue" / "Structured" -->
+    <xs:attribute name="text" type="xs:string" use="optional"/> <!-- human-readable value for Structured fields -->
+    <xs:anyAttribute processContents="lax"/>
+  </xs:complexType>
+
+  <xs:complexType name="GenericListType">
+    <xs:sequence>
+      <xs:any minOccurs="0" maxOccurs="unbounded" processContents="lax"/>
+    </xs:sequence>
+    <xs:attribute name="field" type="xs:string" use="optional"/>
+    <xs:attribute name="size" type="xs:int" use="optional"/>
+  </xs:complexType>
+
+</xs:schema>
