@@ -1,0 +1,2390 @@
+<StoredReport ID="EX1721146140260-3613-VQIAI5AAAAAYN2TPVCACTVHR" baseID="SR1721145678215-2621-VQIAI5AAAAAYN2TPVCACTVHR" creationDate="2024-07-16T17:01:18.213+01:00" sourceBaseDocumentID="Doc1721145678213-2609-VQIAI5AAAAAYN2TPVCACTVHR" sourceDocumentType="Form_Connect_VA:Default" sourceExportedDocumentID="EX1721146140260-3614-VQIAI5AAAAAYN2TPVCACTVHR" type="Form_ConnectSR_VA" updatedDate="2024-07-16T17:09:00.506+01:00" updatedUser="753061C" useType="ConnectSR_VA:Default">
+    <UserDetails field="exportedUserData" name="753061C">
+        <Groups>
+            <String value="Officer"/>
+        </Groups>
+        <Roles>
+            <String value="ASBCreateDocument"/>
+            <String value="All Role"/>
+            <String value="AllowEventCrash"/>
+            <String value="AllowEventDashConnect"/>
+            <String value="AllowEventInvestigationConnect"/>
+            <String value="AllowEventSDashConnect"/>
+            <String value="AllowEventSuddenDeath"/>
+            <String value="AllowEventVAConnect"/>
+            <String value="AllowEventVCConnect"/>
+            <String value="AllowFormConnectStopSearch"/>
+            <String value="AllowFormEWS"/>
+            <String value="AllowFormIntelConnect"/>
+            <String value="AllowFormRecordOfInterview"/>
+            <String value="AllowFormUseOfForce"/>
+            <String value="AllowFormVehicleTicket"/>
+            <String value="AllowTextEntry"/>
+            <String value="AllowUseOfForceViewDocumentsFolder"/>
+            <String value="CannabisWarningCreateDocument"/>
+            <String value="CannabisWarningViewNewReports"/>
+            <String value="CheckKerberos"/>
+            <String value="ContactSlipCreateDocument"/>
+            <String value="CrimeCreateDocument"/>
+            <String value="CrimeUnifiCreateDocument"/>
+            <String value="DARACreateDocument"/>
+            <String value="DashCreateDocument"/>
+            <String value="FeedbackCreateDocument"/>
+            <String value="IntelCreateDocument"/>
+            <String value="IntelNicheCreateDocument"/>
+            <String value="LocationCreateDocument"/>
+            <String value="LocationObjectsView"/>
+            <String value="ManagerLogin"/>
+            <String value="MissingPersonCreateDocument"/>
+            <String value="Officer"/>
+            <String value="OrganisationCreateDocument"/>
+            <String value="OrganisationObjectsView"/>
+            <String value="PDALogin"/>
+            <String value="PNDCreateDocument"/>
+            <String value="PersonAtRiskCreateDocument"/>
+            <String value="PersonCreateDocument"/>
+            <String value="PersonObjectsView"/>
+            <String value="PropertyCreateDocument"/>
+            <String value="PropertyObjectsView"/>
+            <String value="RTCCreateDocument"/>
+            <String value="RecordOfInterviewCreateDocument"/>
+            <String value="RoadDefectCreateDocument"/>
+            <String value="SceneInvestigationCreateDocument"/>
+            <String value="SceneObjectsView"/>
+            <String value="SendVehicleTicket"/>
+            <String value="SetupDevice"/>
+            <String value="SouthYorkshire"/>
+            <String value="StopSearchCreateDocument"/>
+            <String value="SuddenDeathCreateDocument"/>
+            <String value="TakePhoto"/>
+            <String value="TasksView"/>
+            <String value="UserOfConnect"/>
+            <String value="UserOfDVLA"/>
+            <String value="UserOfLynx"/>
+            <String value="UserOfNiche"/>
+            <String value="UserOfPNC"/>
+            <String value="UserOfSmart"/>
+            <String value="UserOfSmartAndCADWidget"/>
+            <String value="VehicleCreateDocument"/>
+            <String value="VehicleObjectsView"/>
+            <String value="VehicleTicketCreateDocument"/>
+            <String value="VehicleTicketPhotos"/>
+            <String value="ViewCasesFolder"/>
+            <String value="ViewCrimesFolder"/>
+            <String value="ViewEntriesFolder"/>
+            <String value="ViewInbox"/>
+            <String value="ViewIncidentsFolder"/>
+            <String value="ViewInvalidDocs"/>
+            <String value="ViewInvestigationsFolder"/>
+            <String value="ViewNotebook"/>
+            <String value="ViewOutbox"/>
+            <String value="ViewPhotos"/>
+            <String value="ViewRTCsFolder"/>
+            <String value="ViewRecordOfInterviewFolder"/>
+            <String value="ViewSend"/>
+            <String value="ViewStatementsFolder"/>
+            <String value="ViewUseOfForceFolder"/>
+            <String value="WebLogin"/>
+        </Roles>
+        <Properties>
+            <String field="UserOfBSGPolice" value="No"/>
+            <String field="LoginName" value="753061"/>
+            <String field="Email" value="eleanor.davis@southyorks.pnn.police.uk"/>
+            <String field="LynxHeaderEmailLive" value="eleanor.davis@southyorks.pnn.police.uk"/>
+            <String field="UserOfDARA" value="No"/>
+            <String field="UserOfAndroidAuto" value="No"/>
+            <String field="UserOfTWS" value="Yes"/>
+            <String field="UserOfNSPIS" value="No"/>
+            <String field="ProCadUserID" value="0928"/>
+            <String field="LynxHeaderIMEITraining" value="354256.04.785384.1"/>
+            <String field="UserOfCrash" value="Yes"/>
+            <String field="LiveMode" value="Yes"/>
+            <String field="UserOfRTC" value="No"/>
+            <String field="ConnectUsername" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+            <String field="UserOfDVLA" value="Yes"/>
+            <String field="UserOfILEAPPersonSearch" value="No"/>
+            <String field="UserOfVAVC" value="No"/>
+            <String field="UserOfILEAPDocumentSearch" value="No"/>
+            <String field="UserOfVehicleTicket" value="Yes"/>
+            <String field="UserOfVA" value="Yes"/>
+            <String field="UserOfEWS" value="Yes"/>
+            <String field="UserOfVC" value="Yes"/>
+            <String field="stormCmdCtrlUserTrng" value="753061"/>
+            <String field="UserOfCIS4" value="No"/>
+            <String field="UserOfPersonAtRisk" value="Yes"/>
+            <String field="UserOfCrime" value="Yes"/>
+            <String field="PNCUserID" value="0928"/>
+            <String field="InterpolUser" value="753061"/>
+            <String field="Force" value="South Yorkshire Police"/>
+            <String field="ADUsername" value="753061@SYP.SOUTHYORKS.POLICE.UK"/>
+            <String field="UserOfILEAPVehicleSearch" value="No"/>
+            <String field="UserOfLynxHP" value="No"/>
+            <String field="UserOfIntel" value="Yes"/>
+            <String field="UserOfSmart" value="Yes"/>
+            <String field="Forename" value="Eleanor"/>
+            <String field="UserOfLynx" value="Yes"/>
+            <String field="UserOfConnectStopSearch" value="Yes"/>
+            <String field="Deleted" value="false"/>
+            <String field="UserOfStopSearch" value="Yes"/>
+            <String field="UserOfSDash" value="Yes"/>
+            <String field="stormCmdCtrlUser" value="753061"/>
+            <String field="UserOfDash" value="Yes"/>
+            <String field="LynxHeaderIMEILive" value="753061"/>
+            <String field="UserOfBSGImmigration" value="No"/>
+            <String field="ConnectUsernameTraining" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+            <String field="LynxRIMDeviceIDTraining" value="26150DD6"/>
+            <String field="UserOfPNC" value="Yes"/>
+            <String field="UserOfUseOfForce" value="Yes"/>
+            <String field="UserOfVCInVAVC" value="No"/>
+            <String field="UserOfConnect" value="Yes"/>
+            <String field="Rank" value="PC"/>
+            <String field="UserOfCnC" value="No"/>
+            <String field="UserOfRecordOfInterview" value="Yes"/>
+            <String field="LynxRIMDeviceIDLive" value="753061"/>
+            <String field="UserOfFine" value="Yes"/>
+            <String field="Surname" value="Davis"/>
+            <String field="LynxHeaderEmailTraining" value="trainermip1@southyorks.pnn.police.uk"/>
+            <String field="CollarNumber" value="0928"/>
+            <String field="UserOfSuddenDeath" value="Yes"/>
+        </Properties>
+    </UserDetails>
+    <ExportedAsset ID="VQIAI2AAAAAX3QN4VCOGXLZ2" engineVersion="27.61.2 (desktop)" field="exportedAssetData" name="56067L" sessionID="VQIAI5AAAAAYN2TPVCACTVHR" workpackageVersion="12.16.2">
+        <LinkedMap field="properties" size="0"/>
+    </ExportedAsset>
+    <LinkedMap field="properties" size="0"/>
+    <DefaultPoleReportData field="value" filteredChildPoleDocs="false" filteredSecondaryEventDocs="false">
+        <ExportedDocument exportedAuthor="753061C" exportedSessionID="VQIAI5AAAAAYN2TPVCACTVHR" exportedSystem="56067L" exportedTime="2024-07-16T17:09:00.260+01:00" field="eventDoc" id="EX1721146140260-3614-VQIAI5AAAAAYN2TPVCACTVHR" label="VA: 14/128758/24  - Reporting Officer - Not Complete">
+            <UserDetails field="userDetails" name="753061C">
+                <Groups>
+                    <String value="Officer"/>
+                </Groups>
+                <Roles>
+                    <String value="ASBCreateDocument"/>
+                    <String value="All Role"/>
+                    <String value="AllowEventCrash"/>
+                    <String value="AllowEventDashConnect"/>
+                    <String value="AllowEventInvestigationConnect"/>
+                    <String value="AllowEventSDashConnect"/>
+                    <String value="AllowEventSuddenDeath"/>
+                    <String value="AllowEventVAConnect"/>
+                    <String value="AllowEventVCConnect"/>
+                    <String value="AllowFormConnectStopSearch"/>
+                    <String value="AllowFormEWS"/>
+                    <String value="AllowFormIntelConnect"/>
+                    <String value="AllowFormRecordOfInterview"/>
+                    <String value="AllowFormUseOfForce"/>
+                    <String value="AllowFormVehicleTicket"/>
+                    <String value="AllowTextEntry"/>
+                    <String value="AllowUseOfForceViewDocumentsFolder"/>
+                    <String value="CannabisWarningCreateDocument"/>
+                    <String value="CannabisWarningViewNewReports"/>
+                    <String value="CheckKerberos"/>
+                    <String value="ContactSlipCreateDocument"/>
+                    <String value="CrimeCreateDocument"/>
+                    <String value="CrimeUnifiCreateDocument"/>
+                    <String value="DARACreateDocument"/>
+                    <String value="DashCreateDocument"/>
+                    <String value="FeedbackCreateDocument"/>
+                    <String value="IntelCreateDocument"/>
+                    <String value="IntelNicheCreateDocument"/>
+                    <String value="LocationCreateDocument"/>
+                    <String value="LocationObjectsView"/>
+                    <String value="ManagerLogin"/>
+                    <String value="MissingPersonCreateDocument"/>
+                    <String value="Officer"/>
+                    <String value="OrganisationCreateDocument"/>
+                    <String value="OrganisationObjectsView"/>
+                    <String value="PDALogin"/>
+                    <String value="PNDCreateDocument"/>
+                    <String value="PersonAtRiskCreateDocument"/>
+                    <String value="PersonCreateDocument"/>
+                    <String value="PersonObjectsView"/>
+                    <String value="PropertyCreateDocument"/>
+                    <String value="PropertyObjectsView"/>
+                    <String value="RTCCreateDocument"/>
+                    <String value="RecordOfInterviewCreateDocument"/>
+                    <String value="RoadDefectCreateDocument"/>
+                    <String value="SceneInvestigationCreateDocument"/>
+                    <String value="SceneObjectsView"/>
+                    <String value="SendVehicleTicket"/>
+                    <String value="SetupDevice"/>
+                    <String value="SouthYorkshire"/>
+                    <String value="StopSearchCreateDocument"/>
+                    <String value="SuddenDeathCreateDocument"/>
+                    <String value="TakePhoto"/>
+                    <String value="TasksView"/>
+                    <String value="UserOfConnect"/>
+                    <String value="UserOfDVLA"/>
+                    <String value="UserOfLynx"/>
+                    <String value="UserOfNiche"/>
+                    <String value="UserOfPNC"/>
+                    <String value="UserOfSmart"/>
+                    <String value="UserOfSmartAndCADWidget"/>
+                    <String value="VehicleCreateDocument"/>
+                    <String value="VehicleObjectsView"/>
+                    <String value="VehicleTicketCreateDocument"/>
+                    <String value="VehicleTicketPhotos"/>
+                    <String value="ViewCasesFolder"/>
+                    <String value="ViewCrimesFolder"/>
+                    <String value="ViewEntriesFolder"/>
+                    <String value="ViewInbox"/>
+                    <String value="ViewIncidentsFolder"/>
+                    <String value="ViewInvalidDocs"/>
+                    <String value="ViewInvestigationsFolder"/>
+                    <String value="ViewNotebook"/>
+                    <String value="ViewOutbox"/>
+                    <String value="ViewPhotos"/>
+                    <String value="ViewRTCsFolder"/>
+                    <String value="ViewRecordOfInterviewFolder"/>
+                    <String value="ViewSend"/>
+                    <String value="ViewStatementsFolder"/>
+                    <String value="ViewUseOfForceFolder"/>
+                    <String value="WebLogin"/>
+                </Roles>
+                <Properties>
+                    <String field="UserOfBSGPolice" value="No"/>
+                    <String field="LoginName" value="753061"/>
+                    <String field="Email" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                    <String field="LynxHeaderEmailLive" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                    <String field="UserOfDARA" value="No"/>
+                    <String field="UserOfAndroidAuto" value="No"/>
+                    <String field="UserOfTWS" value="Yes"/>
+                    <String field="UserOfNSPIS" value="No"/>
+                    <String field="ProCadUserID" value="0928"/>
+                    <String field="LynxHeaderIMEITraining" value="354256.04.785384.1"/>
+                    <String field="UserOfCrash" value="Yes"/>
+                    <String field="LiveMode" value="Yes"/>
+                    <String field="UserOfRTC" value="No"/>
+                    <String field="ConnectUsername" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                    <String field="UserOfDVLA" value="Yes"/>
+                    <String field="UserOfILEAPPersonSearch" value="No"/>
+                    <String field="UserOfVAVC" value="No"/>
+                    <String field="UserOfILEAPDocumentSearch" value="No"/>
+                    <String field="UserOfVehicleTicket" value="Yes"/>
+                    <String field="UserOfVA" value="Yes"/>
+                    <String field="UserOfEWS" value="Yes"/>
+                    <String field="UserOfVC" value="Yes"/>
+                    <String field="stormCmdCtrlUserTrng" value="753061"/>
+                    <String field="UserOfCIS4" value="No"/>
+                    <String field="UserOfPersonAtRisk" value="Yes"/>
+                    <String field="UserOfCrime" value="Yes"/>
+                    <String field="PNCUserID" value="0928"/>
+                    <String field="InterpolUser" value="753061"/>
+                    <String field="Force" value="South Yorkshire Police"/>
+                    <String field="ADUsername" value="753061@SYP.SOUTHYORKS.POLICE.UK"/>
+                    <String field="UserOfILEAPVehicleSearch" value="No"/>
+                    <String field="UserOfLynxHP" value="No"/>
+                    <String field="UserOfIntel" value="Yes"/>
+                    <String field="UserOfSmart" value="Yes"/>
+                    <String field="Forename" value="Eleanor"/>
+                    <String field="UserOfLynx" value="Yes"/>
+                    <String field="UserOfConnectStopSearch" value="Yes"/>
+                    <String field="Deleted" value="false"/>
+                    <String field="UserOfStopSearch" value="Yes"/>
+                    <String field="UserOfSDash" value="Yes"/>
+                    <String field="stormCmdCtrlUser" value="753061"/>
+                    <String field="UserOfDash" value="Yes"/>
+                    <String field="LynxHeaderIMEILive" value="753061"/>
+                    <String field="UserOfBSGImmigration" value="No"/>
+                    <String field="ConnectUsernameTraining" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                    <String field="LynxRIMDeviceIDTraining" value="26150DD6"/>
+                    <String field="UserOfPNC" value="Yes"/>
+                    <String field="UserOfUseOfForce" value="Yes"/>
+                    <String field="UserOfVCInVAVC" value="No"/>
+                    <String field="UserOfConnect" value="Yes"/>
+                    <String field="Rank" value="PC"/>
+                    <String field="UserOfCnC" value="No"/>
+                    <String field="UserOfRecordOfInterview" value="Yes"/>
+                    <String field="LynxRIMDeviceIDLive" value="753061"/>
+                    <String field="UserOfFine" value="Yes"/>
+                    <String field="Surname" value="Davis"/>
+                    <String field="LynxHeaderEmailTraining" value="trainermip1@southyorks.pnn.police.uk"/>
+                    <String field="CollarNumber" value="0928"/>
+                    <String field="UserOfSuddenDeath" value="Yes"/>
+                </Properties>
+            </UserDetails>
+            <AssetDetails ID="VQIAI2AAAAAX3QN4VCOGXLZ2" engineVersion="27.61.2 (desktop)" field="assetDetails" name="56067L" sessionID="VQIAI5AAAAAYN2TPVCACTVHR" workpackageVersion="12.16.2">
+                <Properties/>
+            </AssetDetails>
+            <Properties/>
+            <Document ID="Doc1721145678213-2609-VQIAI5AAAAAYN2TPVCACTVHR" field="document" formName="Connect_VA" indexID="0" typeName="Connect_VA:Default">
+                <DocumentInfo creationAuthor="753061C" creationDate="2024-07-16T17:01:18.213+01:00" creationSessionID="VQIAI5AAAAAYN2TPVCACTVHR" creationSystem="56067L" formatVersion="1" hasAdhocTerms="false" highlight="false" isComplete="false" isDownloaded="false" isValid="true" labelText="VA: 14/128758/24  - &lt;font color=&quot;red&quot;&gt;Reporting Officer&lt;/font&gt; - &lt;b&gt;Not Complete&lt;/b&gt;" lastModifiedAuthor="753061C" lastModifiedDate="2024-07-16T17:08:57.514+01:00" lastModifiedSessionID="VQIAI5AAAAAYN2TPVCACTVHR" lastModifiedSystem="56067L" readOnly="false" sentStatus="SENT_MODIFIED" timeBugRepaired="true" versionID="EX1721146140260-3614-VQIAI5AAAAAYN2TPVCACTVHR">
+                    <OtherProperties/>
+                    <OtherContingentProperties/>
+                    <UserDetails field="creationUserData" name="753061C">
+                        <Groups>
+                            <String value="Officer"/>
+                        </Groups>
+                        <Roles>
+                            <String value="ASBCreateDocument"/>
+                            <String value="All Role"/>
+                            <String value="AllowEventCrash"/>
+                            <String value="AllowEventDashConnect"/>
+                            <String value="AllowEventInvestigationConnect"/>
+                            <String value="AllowEventSDashConnect"/>
+                            <String value="AllowEventSuddenDeath"/>
+                            <String value="AllowEventVAConnect"/>
+                            <String value="AllowEventVCConnect"/>
+                            <String value="AllowFormConnectStopSearch"/>
+                            <String value="AllowFormEWS"/>
+                            <String value="AllowFormIntelConnect"/>
+                            <String value="AllowFormRecordOfInterview"/>
+                            <String value="AllowFormUseOfForce"/>
+                            <String value="AllowFormVehicleTicket"/>
+                            <String value="AllowTextEntry"/>
+                            <String value="AllowUseOfForceViewDocumentsFolder"/>
+                            <String value="CannabisWarningCreateDocument"/>
+                            <String value="CannabisWarningViewNewReports"/>
+                            <String value="CheckKerberos"/>
+                            <String value="ContactSlipCreateDocument"/>
+                            <String value="CrimeCreateDocument"/>
+                            <String value="CrimeUnifiCreateDocument"/>
+                            <String value="DARACreateDocument"/>
+                            <String value="DashCreateDocument"/>
+                            <String value="FeedbackCreateDocument"/>
+                            <String value="IntelCreateDocument"/>
+                            <String value="IntelNicheCreateDocument"/>
+                            <String value="LocationCreateDocument"/>
+                            <String value="LocationObjectsView"/>
+                            <String value="ManagerLogin"/>
+                            <String value="MissingPersonCreateDocument"/>
+                            <String value="Officer"/>
+                            <String value="OrganisationCreateDocument"/>
+                            <String value="OrganisationObjectsView"/>
+                            <String value="PDALogin"/>
+                            <String value="PNDCreateDocument"/>
+                            <String value="PersonAtRiskCreateDocument"/>
+                            <String value="PersonCreateDocument"/>
+                            <String value="PersonObjectsView"/>
+                            <String value="PropertyCreateDocument"/>
+                            <String value="PropertyObjectsView"/>
+                            <String value="RTCCreateDocument"/>
+                            <String value="RecordOfInterviewCreateDocument"/>
+                            <String value="RoadDefectCreateDocument"/>
+                            <String value="SceneInvestigationCreateDocument"/>
+                            <String value="SceneObjectsView"/>
+                            <String value="SendVehicleTicket"/>
+                            <String value="SetupDevice"/>
+                            <String value="SouthYorkshire"/>
+                            <String value="StopSearchCreateDocument"/>
+                            <String value="SuddenDeathCreateDocument"/>
+                            <String value="TakePhoto"/>
+                            <String value="TasksView"/>
+                            <String value="UserOfConnect"/>
+                            <String value="UserOfDVLA"/>
+                            <String value="UserOfLynx"/>
+                            <String value="UserOfNiche"/>
+                            <String value="UserOfPNC"/>
+                            <String value="UserOfSmart"/>
+                            <String value="UserOfSmartAndCADWidget"/>
+                            <String value="VehicleCreateDocument"/>
+                            <String value="VehicleObjectsView"/>
+                            <String value="VehicleTicketCreateDocument"/>
+                            <String value="VehicleTicketPhotos"/>
+                            <String value="ViewCasesFolder"/>
+                            <String value="ViewCrimesFolder"/>
+                            <String value="ViewEntriesFolder"/>
+                            <String value="ViewInbox"/>
+                            <String value="ViewIncidentsFolder"/>
+                            <String value="ViewInvalidDocs"/>
+                            <String value="ViewInvestigationsFolder"/>
+                            <String value="ViewNotebook"/>
+                            <String value="ViewOutbox"/>
+                            <String value="ViewPhotos"/>
+                            <String value="ViewRTCsFolder"/>
+                            <String value="ViewRecordOfInterviewFolder"/>
+                            <String value="ViewSend"/>
+                            <String value="ViewStatementsFolder"/>
+                            <String value="ViewUseOfForceFolder"/>
+                            <String value="WebLogin"/>
+                        </Roles>
+                        <Properties>
+                            <String field="UserOfBSGPolice" value="No"/>
+                            <String field="LoginName" value="753061"/>
+                            <String field="Email" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                            <String field="LynxHeaderEmailLive" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                            <String field="UserOfDARA" value="No"/>
+                            <String field="UserOfAndroidAuto" value="No"/>
+                            <String field="UserOfTWS" value="Yes"/>
+                            <String field="UserOfNSPIS" value="No"/>
+                            <String field="ProCadUserID" value="0928"/>
+                            <String field="LynxHeaderIMEITraining" value="354256.04.785384.1"/>
+                            <String field="UserOfCrash" value="Yes"/>
+                            <String field="LiveMode" value="Yes"/>
+                            <String field="UserOfRTC" value="No"/>
+                            <String field="ConnectUsername" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                            <String field="UserOfDVLA" value="Yes"/>
+                            <String field="UserOfILEAPPersonSearch" value="No"/>
+                            <String field="UserOfVAVC" value="No"/>
+                            <String field="UserOfILEAPDocumentSearch" value="No"/>
+                            <String field="UserOfVehicleTicket" value="Yes"/>
+                            <String field="UserOfVA" value="Yes"/>
+                            <String field="UserOfEWS" value="Yes"/>
+                            <String field="UserOfVC" value="Yes"/>
+                            <String field="stormCmdCtrlUserTrng" value="753061"/>
+                            <String field="UserOfCIS4" value="No"/>
+                            <String field="UserOfPersonAtRisk" value="Yes"/>
+                            <String field="UserOfCrime" value="Yes"/>
+                            <String field="PNCUserID" value="0928"/>
+                            <String field="InterpolUser" value="753061"/>
+                            <String field="Force" value="South Yorkshire Police"/>
+                            <String field="ADUsername" value="753061@SYP.SOUTHYORKS.POLICE.UK"/>
+                            <String field="UserOfILEAPVehicleSearch" value="No"/>
+                            <String field="UserOfLynxHP" value="No"/>
+                            <String field="UserOfIntel" value="Yes"/>
+                            <String field="UserOfSmart" value="Yes"/>
+                            <String field="Forename" value="Eleanor"/>
+                            <String field="UserOfLynx" value="Yes"/>
+                            <String field="UserOfConnectStopSearch" value="Yes"/>
+                            <String field="Deleted" value="false"/>
+                            <String field="UserOfStopSearch" value="Yes"/>
+                            <String field="UserOfSDash" value="Yes"/>
+                            <String field="stormCmdCtrlUser" value="753061"/>
+                            <String field="UserOfDash" value="Yes"/>
+                            <String field="LynxHeaderIMEILive" value="753061"/>
+                            <String field="UserOfBSGImmigration" value="No"/>
+                            <String field="ConnectUsernameTraining" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                            <String field="LynxRIMDeviceIDTraining" value="26150DD6"/>
+                            <String field="UserOfPNC" value="Yes"/>
+                            <String field="UserOfUseOfForce" value="Yes"/>
+                            <String field="UserOfVCInVAVC" value="No"/>
+                            <String field="UserOfConnect" value="Yes"/>
+                            <String field="Rank" value="PC"/>
+                            <String field="UserOfCnC" value="No"/>
+                            <String field="UserOfRecordOfInterview" value="Yes"/>
+                            <String field="LynxRIMDeviceIDLive" value="753061"/>
+                            <String field="UserOfFine" value="Yes"/>
+                            <String field="Surname" value="Davis"/>
+                            <String field="LynxHeaderEmailTraining" value="trainermip1@southyorks.pnn.police.uk"/>
+                            <String field="CollarNumber" value="0928"/>
+                            <String field="UserOfSuddenDeath" value="Yes"/>
+                        </Properties>
+                    </UserDetails>
+                    <HeaderFields>
+                        <HeaderField field="IncidentDate">2024-07-16T00:00:00.000</HeaderField>
+                        <HeaderField field="PrimaryOfficer">true</HeaderField>
+                        <HeaderField field="SingleOfficer">true</HeaderField>
+                        <HeaderField field="LocalAuthorityEmailSent">Unsent</HeaderField>
+                        <HeaderField field="SupervisorEmailSent">Unsent</HeaderField>
+                        <HeaderField field="OfficerEmailSent">Unsent</HeaderField>
+                        <HeaderField field="ConnectState">Not Complete</HeaderField>
+                        <HeaderField field="ConnectInvestigationNumber">14/128758/24</HeaderField>
+                        <HeaderField field="Force">
+                            <KCXML>
+                                <PickItem isUnusual="false">
+                                    <LinkedMap field="properties" size="8">
+                                        <String field="bcuValue" value="Barnsley"/>
+                                        <String field="bcuCode" value="BARNSLEY"/>
+                                        <String field="wardValue" value="Cudworth"/>
+                                        <String field="districtCode" value="BARNSLEY NORTH EAST"/>
+                                        <String field="forceCode" value="14"/>
+                                        <String field="forceValue" value="South Yorkshire Police"/>
+                                        <String field="wardCode" value="E05000977"/>
+                                        <String field="districtValue" value="Barnsley North East"/>
+                                    </LinkedMap>
+                                </PickItem>
+                            </KCXML>
+                        </HeaderField>
+                        <HeaderField field="LocalAuthority">
+                            <KCXML>
+                                <PickItem isUnusual="false">
+                                    <LinkedMap field="properties" size="8">
+                                        <String field="bcuValue" value="Sheffield"/>
+                                        <String field="bcuCode" value="SHEFFIELD"/>
+                                        <String field="wardValue" value="Broomhill &amp; Sharrow Vale"/>
+                                        <String field="districtCode" value="SHEFFIELD CENTRAL &amp; NORTH WEST"/>
+                                        <String field="forceCode" value="14"/>
+                                        <String field="forceValue" value="South Yorkshire Police"/>
+                                        <String field="wardCode" value="E05010860"/>
+                                        <String field="districtValue" value="Sheffield Central &amp; North West"/>
+                                    </LinkedMap>
+                                </PickItem>
+                            </KCXML>
+                        </HeaderField>
+                        <HeaderField field="IsComplete">false</HeaderField>
+                        <HeaderField field="ShiftID">Shift1721109593363-278-VQIAI5AAAAAYN2TPVCACTVHR</HeaderField>
+                        <HeaderField field="CreatedOnServer">false</HeaderField>
+                        <HeaderField field="isCommitting">true</HeaderField>
+                    </HeaderFields>
+                </DocumentInfo>
+                <DocumentBody field="body" formatVersion="1" showEmptyFields="false" showLabels="false" status="1052">
+                    <CompoundRecord ID="Rec1721145678214-2611-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="CnC" hidden="false" highlight="false" status="1052">
+                        <Primitive content="Complete" field="IncidentDate" hidden="false" highlight="false" kind="SingleValue" status="1052">2024-07-16T00:00:00.000</Primitive>
+                        <Primitive content="Complete" field="IncidentSuffix" hidden="false" highlight="false" kind="SingleValue" status="1048">366</Primitive>
+                        <Primitive content="Complete" field="IncidentForce" hidden="true" highlight="false" kind="Structured" status="1034" text="South Yorkshire Police">
+                            <StructuredPickItem>
+                                <PickValue name="Code">SYP</PickValue>
+                                <PickValue name="Value">South Yorkshire Police</PickValue>
+                            </StructuredPickItem>
+                        </Primitive>
+                        <Primitive content="Complete" field="LynxIncidentLink" hidden="false" highlight="false" kind="SingleValue" status="1048">
+                            <KCXML>
+                                <Link label="View ProCAD incident 366 on 16/07/24">
+                                    <SearchLinkData field="value" linkType="GetItemRequest" searchType="LYNX_INCIDENT">
+                                        <MapItemRequestKey field="itemKey">
+                                            <LinkedMap field="map" size="1">
+                                                <String field="IncID" value=""/>
+                                            </LinkedMap>
+                                        </MapItemRequestKey>
+                                    </SearchLinkData>
+                                </Link>
+                            </KCXML>
+                        </Primitive>
+                        <Primitive content="Complete" field="StormLink" hidden="false" highlight="false" kind="SingleValue" status="1048">
+                            <KCXML>
+                                <Link label="Smart Contact incident SYP-20240716-0366">
+                                    <SearchLinkData field="value" linkType="GetItemRequest" searchType="Storm_IncidentSearch">
+                                        <MapItemRequestKey field="itemKey">
+                                            <LinkedMap field="map" size="1">
+                                                <String field="IncidentID" value="SYP-20240716-0366"/>
+                                            </LinkedMap>
+                                        </MapItemRequestKey>
+                                    </SearchLinkData>
+                                </Link>
+                            </KCXML>
+                        </Primitive>
+                        <Primitive content="Complete" field="StormURN" hidden="true" highlight="false" kind="SingleValue" status="1034">SYP-20240716-0366</Primitive>
+                        <Primitive content="Complete" field="DefaultForce" hidden="false" highlight="false" kind="SingleValue" status="1048">South Yorkshire Police</Primitive>
+                        <Primitive content="Complete" field="PrimaryOfficer" hidden="false" highlight="false" kind="SingleValue" status="1052" value="true">Yes</Primitive>
+                        <Primitive content="Complete" field="SingleOfficer" hidden="false" highlight="false" kind="SingleValue" status="1052" value="true">Yes</Primitive>
+                        <Primitive content="Complete" field="EnteredBy" hidden="true" highlight="false" kind="Structured" status="1035" text="Davis, Eleanor PC 0928">
+                            <StructuredPickItem>
+                                <PickValue name="UserOfBSGPolice">No</PickValue>
+                                <PickValue name="LoginName">753061</PickValue>
+                                <PickValue name="Email">eleanor.davis@southyorks.pnn.police.uk</PickValue>
+                                <PickValue name="LynxHeaderEmailLive">eleanor.davis@southyorks.pnn.police.uk</PickValue>
+                                <PickValue name="UserOfDARA">No</PickValue>
+                                <PickValue name="UserOfAndroidAuto">No</PickValue>
+                                <PickValue name="UserOfTWS">Yes</PickValue>
+                                <PickValue name="UserOfNSPIS">No</PickValue>
+                                <PickValue name="ProCadUserID">0928</PickValue>
+                                <PickValue name="LynxHeaderIMEITraining">354256.04.785384.1</PickValue>
+                                <PickValue name="UserOfCrash">Yes</PickValue>
+                                <PickValue name="UserOfRTC">No</PickValue>
+                                <PickValue name="ConnectUsername">463defb0-b5dc-402f-bc0e-ef0e5aa31d8d</PickValue>
+                                <PickValue name="UserOfDVLA">Yes</PickValue>
+                                <PickValue name="UserOfILEAPPersonSearch">No</PickValue>
+                                <PickValue name="UserOfVAVC">No</PickValue>
+                                <PickValue name="UserOfILEAPDocumentSearch">No</PickValue>
+                                <PickValue name="UserOfVehicleTicket">Yes</PickValue>
+                                <PickValue name="UserOfVA">Yes</PickValue>
+                                <PickValue name="UserOfEWS">Yes</PickValue>
+                                <PickValue name="UserOfVC">Yes</PickValue>
+                                <PickValue name="stormCmdCtrlUserTrng">753061</PickValue>
+                                <PickValue name="UserOfCIS4">No</PickValue>
+                                <PickValue name="UserOfPersonAtRisk">Yes</PickValue>
+                                <PickValue name="UserOfCrime">Yes</PickValue>
+                                <PickValue name="PNCUserID">0928</PickValue>
+                                <PickValue name="InterpolUser">753061</PickValue>
+                                <PickValue name="Force">South Yorkshire Police</PickValue>
+                                <PickValue name="ADUsername">753061@SYP.SOUTHYORKS.POLICE.UK</PickValue>
+                                <PickValue name="UserOfILEAPVehicleSearch">No</PickValue>
+                                <PickValue name="UserOfLynxHP">No</PickValue>
+                                <PickValue name="UserOfIntel">Yes</PickValue>
+                                <PickValue name="UserOfSmart">Yes</PickValue>
+                                <PickValue name="Forename">Eleanor</PickValue>
+                                <PickValue name="UserOfLynx">Yes</PickValue>
+                                <PickValue name="UserOfConnectStopSearch">Yes</PickValue>
+                                <PickValue name="Deleted">false</PickValue>
+                                <PickValue name="UserOfStopSearch">Yes</PickValue>
+                                <PickValue name="UserOfSDash">Yes</PickValue>
+                                <PickValue name="stormCmdCtrlUser">753061</PickValue>
+                                <PickValue name="UserOfDash">Yes</PickValue>
+                                <PickValue name="LynxHeaderIMEILive">753061</PickValue>
+                                <PickValue name="UserOfBSGImmigration">No</PickValue>
+                                <PickValue name="ConnectUsernameTraining">463defb0-b5dc-402f-bc0e-ef0e5aa31d8d</PickValue>
+                                <PickValue name="LynxRIMDeviceIDTraining">26150DD6</PickValue>
+                                <PickValue name="UserOfPNC">Yes</PickValue>
+                                <PickValue name="UserOfUseOfForce">Yes</PickValue>
+                                <PickValue name="UserOfVCInVAVC">No</PickValue>
+                                <PickValue name="UserOfConnect">Yes</PickValue>
+                                <PickValue name="Rank">PC</PickValue>
+                                <PickValue name="UserOfCnC">No</PickValue>
+                                <PickValue name="UserOfRecordOfInterview">Yes</PickValue>
+                                <PickValue name="LynxRIMDeviceIDLive">753061</PickValue>
+                                <PickValue name="UserOfFine">Yes</PickValue>
+                                <PickValue name="Surname">Davis</PickValue>
+                                <PickValue name="LynxHeaderEmailTraining">trainermip1@southyorks.pnn.police.uk</PickValue>
+                                <PickValue name="CollarNumber">0928</PickValue>
+                                <PickValue name="UserOfSuddenDeath">Yes</PickValue>
+                            </StructuredPickItem>
+                        </Primitive>
+                        <Primitive content="Complete" field="LocalAuthorityEmailSent" hidden="true" highlight="false" kind="SingleValue" status="1034">Unsent</Primitive>
+                        <Primitive content="Complete" field="SupervisorEmailSent" hidden="true" highlight="false" kind="SingleValue" status="1034">Unsent</Primitive>
+                        <Primitive content="Complete" field="OfficerEmailSent" hidden="true" highlight="false" kind="SingleValue" status="1034">Unsent</Primitive>
+                        <Primitive content="Complete" field="ConnectState" hidden="true" highlight="false" kind="SingleValue" status="1034">Not Complete</Primitive>
+                    </CompoundRecord>
+                    <CompoundRecord ID="Rec1721145678214-2612-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Investigation" hidden="false" highlight="false" status="1052">
+                        <Primitive content="Complete" field="CreateNewInvestigation" hidden="false" highlight="false" kind="SingleValue" status="1053">Create new</Primitive>
+                        <Primitive content="Complete" field="ConnectInvestigationIDLink" hidden="false" highlight="false" kind="SingleValue" status="1048">
+                            <KCXML>
+                                <Link label="Go to Investigation">
+                                    <SearchLinkData field="value" linkType="GetItemRequest" searchType="NORTHGATECONNECT_INCIDENT">
+                                        <DefaultItemRequestKey field="itemKey">
+                                            <Integer field="object" value="3532949"/>
+                                        </DefaultItemRequestKey>
+                                    </SearchLinkData>
+                                </Link>
+                            </KCXML>
+                        </Primitive>
+                        <Primitive content="Complete" field="ConnectInvestigationObjectRef" hidden="true" highlight="false" kind="SingleValue" status="1034">3532949</Primitive>
+                        <Primitive content="Complete" field="ConnectInvestigationNumber" hidden="false" highlight="false" kind="SingleValue" status="1049">14/128758/24</Primitive>
+                        <Primitive content="Complete" field="SupervisingOfficer" hidden="false" highlight="false" kind="Structured" status="1052" text="Mitchell, Ian PC 3206">
+                            <StructuredPickItem>
+                                <PickValue name="Email">Ian.Mitchell@southyorks.pnn.police.uk</PickValue>
+                                <PickValue name="Username">701950</PickValue>
+                                <PickValue name="Force">South Yorkshire Police</PickValue>
+                                <PickValue name="Forename">Ian</PickValue>
+                                <PickValue name="CombinedName"/>
+                                <PickValue name="Rank">PC</PickValue>
+                                <PickValue name="Surname">Mitchell</PickValue>
+                                <PickValue name="CollarNumber">3206</PickValue>
+                            </StructuredPickItem>
+                        </Primitive>
+                        <Primitive content="Complete" field="SupervisingOfficerUsername" hidden="true" highlight="false" kind="SingleValue" status="1039">701950</Primitive>
+                        <Primitive content="Complete" field="SupervisingForce" hidden="true" highlight="false" kind="SingleValue" status="1035">South Yorkshire Police</Primitive>
+                        <Primitive content="Complete" field="InitialClassification" hidden="true" highlight="false" kind="MultipleValue" status="1034" text="[Adult abuse investigation]">
+                            <Term>
+                                <StructuredPickItem label="Adult abuse investigation">
+                                    <PickValue name="Value">Adult abuse investigation</PickValue>
+                                    <PickValue name="Code">ADULT ABUSE INVESTIGATION</PickValue>
+                                </StructuredPickItem>
+                            </Term>
+                        </Primitive>
+                        <Primitive content="Complete" field="HateRelated" hidden="false" highlight="false" kind="SingleValue" status="1052" value="false">No</Primitive>
+                        <Primitive content="Complete" field="ReportingMethod" hidden="false" highlight="false" kind="Structured" status="1052" text="999">
+                            <StructuredPickItem>
+                                <PickValue name="Value">999</PickValue>
+                                <PickValue name="Code">EMERGENCY CALL</PickValue>
+                            </StructuredPickItem>
+                        </Primitive>
+                        <Primitive content="Complete" field="IncidentDateTimeFrom" hidden="false" highlight="false" kind="SingleValue" status="1052">2024-07-16T13:25:00.000+01:00</Primitive>
+                        <Primitive content="Complete" field="IncidentDateTimeReported" hidden="false" highlight="false" kind="SingleValue" status="1052">2024-07-16T13:25:00.000+01:00</Primitive>
+                        <Primitive content="Complete" field="Summary" hidden="false" highlight="false" kind="SingleValue" status="1052">VA Submission - \n\nSupport for subject's mental health.\n\nOfficers have attended a domestic between subject, her mother and sister. Sister being suspect.\n\nSubject states these incidents are frequent and this is really starting to affect her mental health, which she has been struggling with anyway and this is worsening things.\n\nOfficers have asked if she has any support at the moment and she states that she doesn't. She recently started antidepressants but doesn't feel like she has anyone to talk to about how she is feeling and the dark thoughts she is having.\n\nOfficer has given the subject the crisis team phone number and has asked her permission for this referral which she was grateful for. </Primitive>
+                        <Primitive content="Complete" field="StateBasedOffence" hidden="true" highlight="false" kind="SingleValue" status="1035" value="false">No</Primitive>
+                        <Primitive content="Complete" field="Force" hidden="true" highlight="false" kind="Structured" status="1034" text="South Yorkshire Police">
+                            <StructuredPickItem>
+                                <PickValue name="bcuValue">Barnsley</PickValue>
+                                <PickValue name="bcuCode">BARNSLEY</PickValue>
+                                <PickValue name="wardValue">Cudworth</PickValue>
+                                <PickValue name="districtCode">BARNSLEY NORTH EAST</PickValue>
+                                <PickValue name="forceCode">14</PickValue>
+                                <PickValue name="forceValue">South Yorkshire Police</PickValue>
+                                <PickValue name="wardCode">E05000977</PickValue>
+                                <PickValue name="districtValue">Barnsley North East</PickValue>
+                            </StructuredPickItem>
+                        </Primitive>
+                        <Primitive content="Complete" field="BCU" hidden="false" highlight="false" kind="Structured" status="1052" text="Sheffield">
+                            <StructuredPickItem>
+                                <PickValue name="bcuValue">Sheffield</PickValue>
+                                <PickValue name="bcuCode">SHEFFIELD</PickValue>
+                                <PickValue name="wardValue">Broomhill &amp; Sharrow Vale</PickValue>
+                                <PickValue name="districtCode">SHEFFIELD CENTRAL &amp; NORTH WEST</PickValue>
+                                <PickValue name="forceCode">14</PickValue>
+                                <PickValue name="forceValue">South Yorkshire Police</PickValue>
+                                <PickValue name="wardCode">E05010860</PickValue>
+                                <PickValue name="districtValue">Sheffield Central &amp; North West</PickValue>
+                            </StructuredPickItem>
+                        </Primitive>
+                        <Primitive content="Complete" field="LocalAuthority" hidden="false" highlight="false" kind="Structured" status="1052" text="Sheffield">
+                            <StructuredPickItem>
+                                <PickValue name="bcuValue">Sheffield</PickValue>
+                                <PickValue name="bcuCode">SHEFFIELD</PickValue>
+                                <PickValue name="wardValue">Broomhill &amp; Sharrow Vale</PickValue>
+                                <PickValue name="districtCode">SHEFFIELD CENTRAL &amp; NORTH WEST</PickValue>
+                                <PickValue name="forceCode">14</PickValue>
+                                <PickValue name="forceValue">South Yorkshire Police</PickValue>
+                                <PickValue name="wardCode">E05010860</PickValue>
+                                <PickValue name="districtValue">Sheffield Central &amp; North West</PickValue>
+                            </StructuredPickItem>
+                        </Primitive>
+                        <Primitive content="Complete" field="DefaultVictimServices" hidden="true" highlight="false" kind="SingleValue" status="1034" value="true">Yes</Primitive>
+                        <Primitive content="Complete" field="ABHGBH" hidden="true" highlight="false" kind="SingleValue" status="1035" value="false">No</Primitive>
+                    </CompoundRecord>
+                    <CompoundRecord ID="Rec1721145678215-2613-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="MO" hidden="false" highlight="false" status="1052">
+                        <Primitive content="Complete" field="PncMo" hidden="false" highlight="false" kind="SingleValue" status="1052">VA Submission               </Primitive>
+                    </CompoundRecord>
+                    <CompoundRecord ID="Rec1721145678215-2614-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="EnquiryLog" hidden="false" highlight="false" status="1036">
+                        <Primitive content="Complete" field="DateTime" hidden="true" highlight="false" kind="SingleValue" status="1038">2024-07-16T17:01:18.000+01:00</Primitive>
+                    </CompoundRecord>
+                    <CompoundRecord ID="Rec1721145678215-2615-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="VAQuestions" hidden="false" highlight="false" status="1052">
+                        <Primitive content="Complete" field="ReasonForReferral" hidden="false" highlight="false" kind="SingleValue" status="1052">Support for subject's mental health</Primitive>
+                        <Primitive content="Complete" field="ActionsTaken" hidden="false" highlight="false" kind="SingleValue" status="1052">This referral, crisis phone number given to subject and suspect arrested so subject has been safeguarded from them </Primitive>
+                        <SimpleRecord ID="Rec1721145678215-2616-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Capacity" hidden="false" highlight="false" status="1052">
+                            <Primitive content="Complete" field="AdultUnderstanding" hidden="false" highlight="false" kind="SingleValue" status="1052">Yes</Primitive>
+                        </SimpleRecord>
+                        <SimpleRecord ID="Rec1721145678215-2617-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Consent" hidden="false" highlight="false" status="1052">
+                            <Primitive content="Complete" field="ConsentContactDetails" hidden="false" highlight="false" kind="SingleValue" status="1052" value="true">Yes</Primitive>
+                            <Primitive content="Complete" field="ReferralResult" hidden="false" highlight="false" kind="SingleValue" status="1052">Support for mental health </Primitive>
+                            <Primitive content="Complete" field="OutsideInfluence" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                            <Primitive content="Complete" field="AdultCurrentServices" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                            <Primitive content="Complete" field="Language" hidden="false" highlight="false" kind="SingleValue" status="1052">English</Primitive>
+                            <Primitive content="Complete" field="InterpreterRequired" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                            <Primitive content="Complete" field="GPSurgery" hidden="false" highlight="false" kind="SingleValue" status="1052">Not stated</Primitive>
+                            <Primitive content="Complete" field="ImmigrationStatus" hidden="false" highlight="false" kind="SingleValue" status="1052">N/A</Primitive>
+                            <Primitive content="Complete" field="ProtectedCharacteristic" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                            <Primitive content="Complete" field="AdultImpact" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                        </SimpleRecord>
+                        <SimpleRecord ID="Rec1721145678215-2618-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Needs" hidden="false" highlight="false" status="1052">
+                            <Primitive content="Complete" field="DisclosedInfo" hidden="false" highlight="false" kind="SingleValue" status="1052">Yes</Primitive>
+                            <Primitive content="Complete" field="DisclosedInfoOther" hidden="false" highlight="false" kind="SingleValue" status="1052">Recently been put on antidepressants \n</Primitive>
+                            <Primitive content="Complete" field="OtherDisabilities" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                            <Primitive content="Complete" field="TypeOfHarm" hidden="false" highlight="false" kind="SingleValue" status="1052">Emotional/Psychological Abuse</Primitive>
+                            <Primitive content="Complete" field="AbuseLevel" hidden="false" highlight="false" kind="SingleValue" status="1052">Yes</Primitive>
+                            <Primitive content="Complete" field="AbuseLevelDetails" hidden="false" highlight="false" kind="SingleValue" status="1052">Subject and suspect live together \n</Primitive>
+                        </SimpleRecord>
+                        <SimpleRecord ID="Rec1721145678215-2619-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="ConcernsRisks" hidden="false" highlight="false" status="1052">
+                            <Primitive content="Complete" field="Phyiscalinjury" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                            <Primitive content="Complete" field="DrugUse" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                            <Primitive content="Complete" field="SelfHarm" hidden="false" highlight="false" kind="SingleValue" status="1052">Yes</Primitive>
+                            <Primitive content="Complete" field="SelfHarmDetails" hidden="false" highlight="false" kind="SingleValue" status="1052">Subject states she has been having some dark thoughts recently but would not allude to these </Primitive>
+                            <Primitive content="Complete" field="HarmOthers" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                            <Primitive content="Complete" field="SociallyIsolated" hidden="false" highlight="false" kind="SingleValue" status="1052">Yes</Primitive>
+                            <Primitive content="Complete" field="SociallyIsolatedDetails" hidden="false" highlight="false" kind="SingleValue" status="1052">feels she has no one to talk to about her mental health issues\n</Primitive>
+                            <Primitive content="Complete" field="SelfNeglect" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                            <Primitive content="Complete" field="MoreVulnerable" hidden="false" highlight="false" kind="SingleValue" status="1052">Yes</Primitive>
+                            <Primitive content="Complete" field="MoreVulnerableDetails" hidden="false" highlight="false" kind="SingleValue" status="1052">The subject's living situation is effecting her mental health \n</Primitive>
+                            <Primitive content="Complete" field="HouseDanger" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                            <Primitive content="Complete" field="TypeOfProperty" hidden="false" highlight="false" kind="SingleValue" status="1052">Other</Primitive>
+                            <Primitive content="Complete" field="TypeOfPropertyDetails" hidden="false" highlight="false" kind="SingleValue" status="1052">Lives with parents </Primitive>
+                            <Primitive content="Complete" field="KnownToPolice" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                            <Primitive content="Complete" field="OtherPersonsAtRisk" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                            <Primitive content="Complete" field="ProvideSupport" hidden="false" highlight="false" kind="SingleValue" status="1052">No</Primitive>
+                        </SimpleRecord>
+                    </CompoundRecord>
+                    <CompoundRecord ID="Rec1721145678215-2620-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Completed" hidden="true" highlight="false" status="1038">
+                        <Primitive content="Complete" field="IsComplete" hidden="false" highlight="false" kind="SingleValue" status="1053" value="false">No</Primitive>
+                    </CompoundRecord>
+                    <CompoundList content="Complete" field="SearchResults" hidden="false" highlight="false" status="1048" statusID="Positive">
+                        <CompoundRecord ID="Rec1721145984187-3184-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" hidden="false" highlight="false" status="1044" type="OTA_SearchStamp">
+                            <Primitive content="Complete" field="SearchTypes" hidden="false" highlight="false" kind="MultipleValue" status="1053" text="[NORTHGATECONNECT_PERSON]">
+                                <Term>NORTHGATECONNECT_PERSON</Term>
+                            </Primitive>
+                            <Primitive content="Complete" field="Surname" hidden="false" highlight="false" kind="SingleValue" status="1053">RIASAT</Primitive>
+                            <Primitive content="Complete" field="Forename" hidden="false" highlight="false" kind="SingleValue" status="1053">Meryem</Primitive>
+                            <Primitive content="Complete" field="DateOfBirth" hidden="false" highlight="false" kind="SingleValue" status="1053">Tue Jan 29 00:00:00 GMT 1991</Primitive>
+                            <Primitive content="Complete" field="SearchDateTime" hidden="false" highlight="false" kind="SingleValue" status="1053">2024-07-16T17:06:24.000+01:00</Primitive>
+                            <Primitive content="Complete" field="IdentificationID" hidden="false" highlight="false" kind="SingleValue" status="1053">1600001234C</Primitive>
+                        </CompoundRecord>
+                        <CompoundRecord ID="Rec1721145997612-3204-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" hidden="false" highlight="false" status="1052" type="OTA_ConnectPersonSearchResult">
+                            <Primitive content="Complete" field="Forename" hidden="false" highlight="false" kind="SingleValue" status="1049">Meryem</Primitive>
+                            <Primitive content="Complete" field="Surname" hidden="false" highlight="false" kind="SingleValue" status="1049">RIASAT</Primitive>
+                            <Primitive content="Complete" field="DateOfBirth" hidden="false" highlight="false" kind="SingleValue" status="1049">1991-01-29T00:00:00.000</Primitive>
+                            <Primitive content="Complete" field="Sex" hidden="false" highlight="false" kind="SingleValue" status="1049" value="Female">Female</Primitive>
+                            <SimpleRecord ID="Rec1721145997612-3205-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Address" hidden="false" highlight="false" status="1048">
+                                <Primitive content="Complete" field="LinkReason" hidden="false" highlight="false" kind="SingleValue" status="1049">HOME ADDRESS</Primitive>
+                                <Primitive content="Complete" field="Postcode" hidden="false" highlight="false" kind="SingleValue" status="1049">S7 1SB</Primitive>
+                                <Primitive content="Complete" field="PremisesNumber" hidden="false" highlight="false" kind="SingleValue" status="1049">22</Primitive>
+                                <Primitive content="Complete" field="AddressLine1" hidden="false" highlight="false" kind="SingleValue" status="1049">RAVEN ROAD</Primitive>
+                                <Primitive content="Complete" field="Town" hidden="false" highlight="false" kind="SingleValue" status="1049">SHEFFIELD</Primitive>
+                                <Primitive content="Complete" field="County" hidden="false" highlight="false" kind="SingleValue" status="1049">SHEFFIELD</Primitive>
+                                <Primitive content="Complete" field="GroupRef" hidden="true" highlight="false" kind="SingleValue" status="1034">1723300</Primitive>
+                                <Primitive content="Complete" field="Link" hidden="false" highlight="false" kind="SingleValue" status="1049">
+                                    <KCXML>
+                                        <Link label="Go to Location">
+                                            <SearchLinkData field="value" linkType="GetItemRequest" searchType="NORTHGATECONNECT_LOCATION">
+                                                <DefaultItemRequestKey field="itemKey">
+                                                    <Integer field="object" value="1723300"/>
+                                                </DefaultItemRequestKey>
+                                            </SearchLinkData>
+                                        </Link>
+                                    </KCXML>
+                                </Primitive>
+                                <Primitive content="Complete" field="Researched" hidden="true" highlight="false" kind="SingleValue" status="1034">true</Primitive>
+                            </SimpleRecord>
+                            <Primitive content="Complete" field="EthnicAppearance" hidden="false" highlight="false" kind="SingleValue" status="1049">Asian</Primitive>
+                            <Primitive content="Complete" field="SelfDefinedEthnicity" hidden="false" highlight="false" kind="SingleValue" status="1049">Pakistani</Primitive>
+                            <Primitive content="Complete" field="Occupation" hidden="false" highlight="false" kind="SingleValue" status="1049">Not Stated</Primitive>
+                            <Primitive content="Complete" field="SubOccupation" hidden="false" highlight="false" kind="SingleValue" status="1049">Not Stated</Primitive>
+                            <Primitive content="Complete" field="GroupRef" hidden="true" highlight="false" kind="SingleValue" status="1034">4419398</Primitive>
+                            <Primitive content="Complete" field="Link" hidden="true" highlight="false" kind="SingleValue" status="1035">
+                                <KCXML>
+                                    <Link label="Go to Person">
+                                        <SearchLinkData field="value" linkType="GetItemRequest" searchType="NORTHGATECONNECT_PERSON">
+                                            <DefaultItemRequestKey field="itemKey">
+                                                <Integer field="object" value="4419398"/>
+                                            </DefaultItemRequestKey>
+                                        </SearchLinkData>
+                                    </Link>
+                                </KCXML>
+                            </Primitive>
+                            <Primitive content="Complete" field="Researched" hidden="true" highlight="false" kind="SingleValue" status="1034">true</Primitive>
+                        </CompoundRecord>
+                        <CompoundRecord ID="Rec1721146055158-3264-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" hidden="false" highlight="false" status="1044" type="OTA_SearchStamp">
+                            <Primitive content="Complete" field="SearchTypes" hidden="false" highlight="false" kind="MultipleValue" status="1053" text="[NORTHGATECONNECT_PERSON]">
+                                <Term>NORTHGATECONNECT_PERSON</Term>
+                            </Primitive>
+                            <Primitive content="Complete" field="Surname" hidden="false" highlight="false" kind="SingleValue" status="1053">RIASAT</Primitive>
+                            <Primitive content="Complete" field="Forename" hidden="false" highlight="false" kind="SingleValue" status="1053">Mehreen</Primitive>
+                            <Primitive content="Complete" field="DateOfBirth" hidden="false" highlight="false" kind="SingleValue" status="1053">Fri Jan 07 00:00:00 GMT 1994</Primitive>
+                            <Primitive content="Complete" field="SearchDateTime" hidden="false" highlight="false" kind="SingleValue" status="1053">2024-07-16T17:07:35.000+01:00</Primitive>
+                            <Primitive content="Complete" field="IdentificationID" hidden="false" highlight="false" kind="SingleValue" status="1053">1600001234C</Primitive>
+                        </CompoundRecord>
+                        <CompoundRecord ID="Rec1721146107787-3530-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" hidden="false" highlight="false" status="1044" type="OTA_SearchStamp">
+                            <Primitive content="Complete" field="SearchTypes" hidden="false" highlight="false" kind="MultipleValue" status="1053" text="[NORTHGATECONNECT_PERSON]">
+                                <Term>NORTHGATECONNECT_PERSON</Term>
+                            </Primitive>
+                            <Primitive content="Complete" field="Surname" hidden="false" highlight="false" kind="SingleValue" status="1053">RIASAT</Primitive>
+                            <Primitive content="Complete" field="Forename" hidden="false" highlight="false" kind="SingleValue" status="1053">Mehreen</Primitive>
+                            <Primitive content="Complete" field="DateOfBirth" hidden="false" highlight="false" kind="SingleValue" status="1053">Fri Jan 07 00:00:00 GMT 1994</Primitive>
+                            <Primitive content="Complete" field="SearchDateTime" hidden="false" highlight="false" kind="SingleValue" status="1053">2024-07-16T17:08:27.000+01:00</Primitive>
+                            <Primitive content="Complete" field="IdentificationID" hidden="false" highlight="false" kind="SingleValue" status="1053">1600001234C</Primitive>
+                        </CompoundRecord>
+                    </CompoundList>
+                    <CompoundList content="Complete" field="Involved" hidden="false" highlight="false" status="1052" statusID="Positive">
+                        <CompoundRecord content="Incomplete" hidden="false" highlight="false" status="0" type="InvolvedRef">
+                            <Primitive content="Complete" field="RecordID" hidden="true" highlight="false" kind="SingleValue" status="1051">Rec1721145678290-2836-VQIAI5AAAAAYN2TPVCACTVHR</Primitive>
+                            <Primitive content="Complete" field="RefDocumentID" hidden="true" highlight="false" kind="SingleValue" status="1051">Doc1721145678282-2808-VQIAI5AAAAAYN2TPVCACTVHR</Primitive>
+                            <Primitive content="Complete" field="RefRecordType" hidden="true" highlight="false" kind="SingleValue" status="1051">Rel_ConnectLocationInvolvedVA</Primitive>
+                            <Primitive content="Complete" field="RefSectionName" hidden="true" highlight="false" kind="SingleValue" status="1051">Events</Primitive>
+                            <Primitive content="Complete" field="RefDocumentType" hidden="true" highlight="false" kind="SingleValue" status="1051">Connect_Location:Default</Primitive>
+                        </CompoundRecord>
+                        <CompoundRecord content="Incomplete" hidden="false" highlight="false" status="0" type="InvolvedRef">
+                            <Primitive content="Complete" field="RecordID" hidden="true" highlight="false" kind="SingleValue" status="1051">Rec1721146082746-3384-VQIAI5AAAAAYN2TPVCACTVHR</Primitive>
+                            <Primitive content="Complete" field="RefDocumentID" hidden="true" highlight="false" kind="SingleValue" status="1051">Doc1721146082733-3304-VQIAI5AAAAAYN2TPVCACTVHR</Primitive>
+                            <Primitive content="Complete" field="RefRecordType" hidden="true" highlight="false" kind="SingleValue" status="1051">Rel_ConnectPersonInvolvedVA</Primitive>
+                            <Primitive content="Complete" field="RefSectionName" hidden="true" highlight="false" kind="SingleValue" status="1051">Role</Primitive>
+                            <Primitive content="Complete" field="RefDocumentType" hidden="true" highlight="false" kind="SingleValue" status="1051">Connect_Person:Default</Primitive>
+                        </CompoundRecord>
+                        <CompoundRecord content="Incomplete" hidden="false" highlight="false" status="0" type="InvolvedRef">
+                            <Primitive content="Complete" field="RecordID" hidden="true" highlight="false" kind="SingleValue" status="1051">Rec1721146102517-3499-VQIAI5AAAAAYN2TPVCACTVHR</Primitive>
+                            <Primitive content="Complete" field="RefDocumentID" hidden="true" highlight="false" kind="SingleValue" status="1051">Doc1721146102504-3419-VQIAI5AAAAAYN2TPVCACTVHR</Primitive>
+                            <Primitive content="Complete" field="RefRecordType" hidden="true" highlight="false" kind="SingleValue" status="1051">Rel_ConnectPersonInvolvedVA</Primitive>
+                            <Primitive content="Complete" field="RefSectionName" hidden="true" highlight="false" kind="SingleValue" status="1051">Role</Primitive>
+                            <Primitive content="Complete" field="RefDocumentType" hidden="true" highlight="false" kind="SingleValue" status="1051">Connect_Person:Default</Primitive>
+                        </CompoundRecord>
+                    </CompoundList>
+                </DocumentBody>
+            </Document>
+        </ExportedDocument>
+        <List field="secondaryEventDocs" size="0"/>
+        <List field="childPoleDocs" size="3">
+            <ExportedDocument exportedAuthor="753061C" exportedSessionID="VQIAI5AAAAAYN2TPVCACTVHR" exportedSystem="56067L" exportedTime="2024-07-16T17:09:00.261+01:00" id="EX1721146140261-3615-VQIAI5AAAAAYN2TPVCACTVHR" label="Location ">
+                <UserDetails field="userDetails" name="753061C">
+                    <Groups>
+                        <String value="Officer"/>
+                    </Groups>
+                    <Roles>
+                        <String value="ASBCreateDocument"/>
+                        <String value="All Role"/>
+                        <String value="AllowEventCrash"/>
+                        <String value="AllowEventDashConnect"/>
+                        <String value="AllowEventInvestigationConnect"/>
+                        <String value="AllowEventSDashConnect"/>
+                        <String value="AllowEventSuddenDeath"/>
+                        <String value="AllowEventVAConnect"/>
+                        <String value="AllowEventVCConnect"/>
+                        <String value="AllowFormConnectStopSearch"/>
+                        <String value="AllowFormEWS"/>
+                        <String value="AllowFormIntelConnect"/>
+                        <String value="AllowFormRecordOfInterview"/>
+                        <String value="AllowFormUseOfForce"/>
+                        <String value="AllowFormVehicleTicket"/>
+                        <String value="AllowTextEntry"/>
+                        <String value="AllowUseOfForceViewDocumentsFolder"/>
+                        <String value="CannabisWarningCreateDocument"/>
+                        <String value="CannabisWarningViewNewReports"/>
+                        <String value="CheckKerberos"/>
+                        <String value="ContactSlipCreateDocument"/>
+                        <String value="CrimeCreateDocument"/>
+                        <String value="CrimeUnifiCreateDocument"/>
+                        <String value="DARACreateDocument"/>
+                        <String value="DashCreateDocument"/>
+                        <String value="FeedbackCreateDocument"/>
+                        <String value="IntelCreateDocument"/>
+                        <String value="IntelNicheCreateDocument"/>
+                        <String value="LocationCreateDocument"/>
+                        <String value="LocationObjectsView"/>
+                        <String value="ManagerLogin"/>
+                        <String value="MissingPersonCreateDocument"/>
+                        <String value="Officer"/>
+                        <String value="OrganisationCreateDocument"/>
+                        <String value="OrganisationObjectsView"/>
+                        <String value="PDALogin"/>
+                        <String value="PNDCreateDocument"/>
+                        <String value="PersonAtRiskCreateDocument"/>
+                        <String value="PersonCreateDocument"/>
+                        <String value="PersonObjectsView"/>
+                        <String value="PropertyCreateDocument"/>
+                        <String value="PropertyObjectsView"/>
+                        <String value="RTCCreateDocument"/>
+                        <String value="RecordOfInterviewCreateDocument"/>
+                        <String value="RoadDefectCreateDocument"/>
+                        <String value="SceneInvestigationCreateDocument"/>
+                        <String value="SceneObjectsView"/>
+                        <String value="SendVehicleTicket"/>
+                        <String value="SetupDevice"/>
+                        <String value="SouthYorkshire"/>
+                        <String value="StopSearchCreateDocument"/>
+                        <String value="SuddenDeathCreateDocument"/>
+                        <String value="TakePhoto"/>
+                        <String value="TasksView"/>
+                        <String value="UserOfConnect"/>
+                        <String value="UserOfDVLA"/>
+                        <String value="UserOfLynx"/>
+                        <String value="UserOfNiche"/>
+                        <String value="UserOfPNC"/>
+                        <String value="UserOfSmart"/>
+                        <String value="UserOfSmartAndCADWidget"/>
+                        <String value="VehicleCreateDocument"/>
+                        <String value="VehicleObjectsView"/>
+                        <String value="VehicleTicketCreateDocument"/>
+                        <String value="VehicleTicketPhotos"/>
+                        <String value="ViewCasesFolder"/>
+                        <String value="ViewCrimesFolder"/>
+                        <String value="ViewEntriesFolder"/>
+                        <String value="ViewInbox"/>
+                        <String value="ViewIncidentsFolder"/>
+                        <String value="ViewInvalidDocs"/>
+                        <String value="ViewInvestigationsFolder"/>
+                        <String value="ViewNotebook"/>
+                        <String value="ViewOutbox"/>
+                        <String value="ViewPhotos"/>
+                        <String value="ViewRTCsFolder"/>
+                        <String value="ViewRecordOfInterviewFolder"/>
+                        <String value="ViewSend"/>
+                        <String value="ViewStatementsFolder"/>
+                        <String value="ViewUseOfForceFolder"/>
+                        <String value="WebLogin"/>
+                    </Roles>
+                    <Properties>
+                        <String field="UserOfBSGPolice" value="No"/>
+                        <String field="LoginName" value="753061"/>
+                        <String field="Email" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                        <String field="LynxHeaderEmailLive" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                        <String field="UserOfDARA" value="No"/>
+                        <String field="UserOfAndroidAuto" value="No"/>
+                        <String field="UserOfTWS" value="Yes"/>
+                        <String field="UserOfNSPIS" value="No"/>
+                        <String field="ProCadUserID" value="0928"/>
+                        <String field="LynxHeaderIMEITraining" value="354256.04.785384.1"/>
+                        <String field="UserOfCrash" value="Yes"/>
+                        <String field="LiveMode" value="Yes"/>
+                        <String field="UserOfRTC" value="No"/>
+                        <String field="ConnectUsername" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                        <String field="UserOfDVLA" value="Yes"/>
+                        <String field="UserOfILEAPPersonSearch" value="No"/>
+                        <String field="UserOfVAVC" value="No"/>
+                        <String field="UserOfILEAPDocumentSearch" value="No"/>
+                        <String field="UserOfVehicleTicket" value="Yes"/>
+                        <String field="UserOfVA" value="Yes"/>
+                        <String field="UserOfEWS" value="Yes"/>
+                        <String field="UserOfVC" value="Yes"/>
+                        <String field="stormCmdCtrlUserTrng" value="753061"/>
+                        <String field="UserOfCIS4" value="No"/>
+                        <String field="UserOfPersonAtRisk" value="Yes"/>
+                        <String field="UserOfCrime" value="Yes"/>
+                        <String field="PNCUserID" value="0928"/>
+                        <String field="InterpolUser" value="753061"/>
+                        <String field="Force" value="South Yorkshire Police"/>
+                        <String field="ADUsername" value="753061@SYP.SOUTHYORKS.POLICE.UK"/>
+                        <String field="UserOfILEAPVehicleSearch" value="No"/>
+                        <String field="UserOfLynxHP" value="No"/>
+                        <String field="UserOfIntel" value="Yes"/>
+                        <String field="UserOfSmart" value="Yes"/>
+                        <String field="Forename" value="Eleanor"/>
+                        <String field="UserOfLynx" value="Yes"/>
+                        <String field="UserOfConnectStopSearch" value="Yes"/>
+                        <String field="Deleted" value="false"/>
+                        <String field="UserOfStopSearch" value="Yes"/>
+                        <String field="UserOfSDash" value="Yes"/>
+                        <String field="stormCmdCtrlUser" value="753061"/>
+                        <String field="UserOfDash" value="Yes"/>
+                        <String field="LynxHeaderIMEILive" value="753061"/>
+                        <String field="UserOfBSGImmigration" value="No"/>
+                        <String field="ConnectUsernameTraining" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                        <String field="LynxRIMDeviceIDTraining" value="26150DD6"/>
+                        <String field="UserOfPNC" value="Yes"/>
+                        <String field="UserOfUseOfForce" value="Yes"/>
+                        <String field="UserOfVCInVAVC" value="No"/>
+                        <String field="UserOfConnect" value="Yes"/>
+                        <String field="Rank" value="PC"/>
+                        <String field="UserOfCnC" value="No"/>
+                        <String field="UserOfRecordOfInterview" value="Yes"/>
+                        <String field="LynxRIMDeviceIDLive" value="753061"/>
+                        <String field="UserOfFine" value="Yes"/>
+                        <String field="Surname" value="Davis"/>
+                        <String field="LynxHeaderEmailTraining" value="trainermip1@southyorks.pnn.police.uk"/>
+                        <String field="CollarNumber" value="0928"/>
+                        <String field="UserOfSuddenDeath" value="Yes"/>
+                    </Properties>
+                </UserDetails>
+                <AssetDetails ID="VQIAI2AAAAAX3QN4VCOGXLZ2" engineVersion="27.61.2 (desktop)" field="assetDetails" name="56067L" sessionID="VQIAI5AAAAAYN2TPVCACTVHR" workpackageVersion="12.16.2">
+                    <Properties/>
+                </AssetDetails>
+                <Properties/>
+                <Document ID="Doc1721145678282-2808-VQIAI5AAAAAYN2TPVCACTVHR" field="document" formName="Connect_Location" indexID="0" typeName="Connect_Location:Default">
+                    <DocumentInfo creationAuthor="753061C" creationDate="2024-07-16T17:01:18.282+01:00" creationSessionID="VQIAI5AAAAAYN2TPVCACTVHR" creationSystem="56067L" formatVersion="1" hasAdhocTerms="false" highlight="false" isComplete="false" isDownloaded="false" isValid="true" labelText="Location " lastModifiedAuthor="753061C" lastModifiedDate="2024-07-16T17:01:18.293+01:00" lastModifiedSessionID="VQIAI5AAAAAYN2TPVCACTVHR" lastModifiedSystem="56067L" readOnly="false" sentStatus="DRAFT" timeBugRepaired="true" versionID="EX1721146140261-3615-VQIAI5AAAAAYN2TPVCACTVHR">
+                        <OtherProperties/>
+                        <OtherContingentProperties/>
+                        <UserDetails field="creationUserData" name="753061C">
+                            <Groups>
+                                <String value="Officer"/>
+                            </Groups>
+                            <Roles>
+                                <String value="ASBCreateDocument"/>
+                                <String value="All Role"/>
+                                <String value="AllowEventCrash"/>
+                                <String value="AllowEventDashConnect"/>
+                                <String value="AllowEventInvestigationConnect"/>
+                                <String value="AllowEventSDashConnect"/>
+                                <String value="AllowEventSuddenDeath"/>
+                                <String value="AllowEventVAConnect"/>
+                                <String value="AllowEventVCConnect"/>
+                                <String value="AllowFormConnectStopSearch"/>
+                                <String value="AllowFormEWS"/>
+                                <String value="AllowFormIntelConnect"/>
+                                <String value="AllowFormRecordOfInterview"/>
+                                <String value="AllowFormUseOfForce"/>
+                                <String value="AllowFormVehicleTicket"/>
+                                <String value="AllowTextEntry"/>
+                                <String value="AllowUseOfForceViewDocumentsFolder"/>
+                                <String value="CannabisWarningCreateDocument"/>
+                                <String value="CannabisWarningViewNewReports"/>
+                                <String value="CheckKerberos"/>
+                                <String value="ContactSlipCreateDocument"/>
+                                <String value="CrimeCreateDocument"/>
+                                <String value="CrimeUnifiCreateDocument"/>
+                                <String value="DARACreateDocument"/>
+                                <String value="DashCreateDocument"/>
+                                <String value="FeedbackCreateDocument"/>
+                                <String value="IntelCreateDocument"/>
+                                <String value="IntelNicheCreateDocument"/>
+                                <String value="LocationCreateDocument"/>
+                                <String value="LocationObjectsView"/>
+                                <String value="ManagerLogin"/>
+                                <String value="MissingPersonCreateDocument"/>
+                                <String value="Officer"/>
+                                <String value="OrganisationCreateDocument"/>
+                                <String value="OrganisationObjectsView"/>
+                                <String value="PDALogin"/>
+                                <String value="PNDCreateDocument"/>
+                                <String value="PersonAtRiskCreateDocument"/>
+                                <String value="PersonCreateDocument"/>
+                                <String value="PersonObjectsView"/>
+                                <String value="PropertyCreateDocument"/>
+                                <String value="PropertyObjectsView"/>
+                                <String value="RTCCreateDocument"/>
+                                <String value="RecordOfInterviewCreateDocument"/>
+                                <String value="RoadDefectCreateDocument"/>
+                                <String value="SceneInvestigationCreateDocument"/>
+                                <String value="SceneObjectsView"/>
+                                <String value="SendVehicleTicket"/>
+                                <String value="SetupDevice"/>
+                                <String value="SouthYorkshire"/>
+                                <String value="StopSearchCreateDocument"/>
+                                <String value="SuddenDeathCreateDocument"/>
+                                <String value="TakePhoto"/>
+                                <String value="TasksView"/>
+                                <String value="UserOfConnect"/>
+                                <String value="UserOfDVLA"/>
+                                <String value="UserOfLynx"/>
+                                <String value="UserOfNiche"/>
+                                <String value="UserOfPNC"/>
+                                <String value="UserOfSmart"/>
+                                <String value="UserOfSmartAndCADWidget"/>
+                                <String value="VehicleCreateDocument"/>
+                                <String value="VehicleObjectsView"/>
+                                <String value="VehicleTicketCreateDocument"/>
+                                <String value="VehicleTicketPhotos"/>
+                                <String value="ViewCasesFolder"/>
+                                <String value="ViewCrimesFolder"/>
+                                <String value="ViewEntriesFolder"/>
+                                <String value="ViewInbox"/>
+                                <String value="ViewIncidentsFolder"/>
+                                <String value="ViewInvalidDocs"/>
+                                <String value="ViewInvestigationsFolder"/>
+                                <String value="ViewNotebook"/>
+                                <String value="ViewOutbox"/>
+                                <String value="ViewPhotos"/>
+                                <String value="ViewRTCsFolder"/>
+                                <String value="ViewRecordOfInterviewFolder"/>
+                                <String value="ViewSend"/>
+                                <String value="ViewStatementsFolder"/>
+                                <String value="ViewUseOfForceFolder"/>
+                                <String value="WebLogin"/>
+                            </Roles>
+                            <Properties>
+                                <String field="UserOfBSGPolice" value="No"/>
+                                <String field="LoginName" value="753061"/>
+                                <String field="Email" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                                <String field="LynxHeaderEmailLive" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                                <String field="UserOfDARA" value="No"/>
+                                <String field="UserOfAndroidAuto" value="No"/>
+                                <String field="UserOfTWS" value="Yes"/>
+                                <String field="UserOfNSPIS" value="No"/>
+                                <String field="ProCadUserID" value="0928"/>
+                                <String field="LynxHeaderIMEITraining" value="354256.04.785384.1"/>
+                                <String field="UserOfCrash" value="Yes"/>
+                                <String field="LiveMode" value="Yes"/>
+                                <String field="UserOfRTC" value="No"/>
+                                <String field="ConnectUsername" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                                <String field="UserOfDVLA" value="Yes"/>
+                                <String field="UserOfILEAPPersonSearch" value="No"/>
+                                <String field="UserOfVAVC" value="No"/>
+                                <String field="UserOfILEAPDocumentSearch" value="No"/>
+                                <String field="UserOfVehicleTicket" value="Yes"/>
+                                <String field="UserOfVA" value="Yes"/>
+                                <String field="UserOfEWS" value="Yes"/>
+                                <String field="UserOfVC" value="Yes"/>
+                                <String field="stormCmdCtrlUserTrng" value="753061"/>
+                                <String field="UserOfCIS4" value="No"/>
+                                <String field="UserOfPersonAtRisk" value="Yes"/>
+                                <String field="UserOfCrime" value="Yes"/>
+                                <String field="PNCUserID" value="0928"/>
+                                <String field="InterpolUser" value="753061"/>
+                                <String field="Force" value="South Yorkshire Police"/>
+                                <String field="ADUsername" value="753061@SYP.SOUTHYORKS.POLICE.UK"/>
+                                <String field="UserOfILEAPVehicleSearch" value="No"/>
+                                <String field="UserOfLynxHP" value="No"/>
+                                <String field="UserOfIntel" value="Yes"/>
+                                <String field="UserOfSmart" value="Yes"/>
+                                <String field="Forename" value="Eleanor"/>
+                                <String field="UserOfLynx" value="Yes"/>
+                                <String field="UserOfConnectStopSearch" value="Yes"/>
+                                <String field="Deleted" value="false"/>
+                                <String field="UserOfStopSearch" value="Yes"/>
+                                <String field="UserOfSDash" value="Yes"/>
+                                <String field="stormCmdCtrlUser" value="753061"/>
+                                <String field="UserOfDash" value="Yes"/>
+                                <String field="LynxHeaderIMEILive" value="753061"/>
+                                <String field="UserOfBSGImmigration" value="No"/>
+                                <String field="ConnectUsernameTraining" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                                <String field="LynxRIMDeviceIDTraining" value="26150DD6"/>
+                                <String field="UserOfPNC" value="Yes"/>
+                                <String field="UserOfUseOfForce" value="Yes"/>
+                                <String field="UserOfVCInVAVC" value="No"/>
+                                <String field="UserOfConnect" value="Yes"/>
+                                <String field="Rank" value="PC"/>
+                                <String field="UserOfCnC" value="No"/>
+                                <String field="UserOfRecordOfInterview" value="Yes"/>
+                                <String field="LynxRIMDeviceIDLive" value="753061"/>
+                                <String field="UserOfFine" value="Yes"/>
+                                <String field="Surname" value="Davis"/>
+                                <String field="LynxHeaderEmailTraining" value="trainermip1@southyorks.pnn.police.uk"/>
+                                <String field="CollarNumber" value="0928"/>
+                                <String field="UserOfSuddenDeath" value="Yes"/>
+                            </Properties>
+                        </UserDetails>
+                        <HeaderFields>
+                            <HeaderField field="CreatedOnServer">false</HeaderField>
+                            <HeaderField field="docToRecIDs">
+                                <KCXML>
+                                    <LinkedMap size="1">
+                                        <List field="Doc1721145678213-2609-VQIAI5AAAAAYN2TPVCACTVHR" size="1">
+                                            <String value="Rec1721145678290-2836-VQIAI5AAAAAYN2TPVCACTVHR"/>
+                                        </List>
+                                    </LinkedMap>
+                                </KCXML>
+                            </HeaderField>
+                            <HeaderField field="recIDToRel">
+                                <KCXML>
+                                    <LinkedMap size="2">
+                                        <String field="Doc1721145678282-2808-VQIAI5AAAAAYN2TPVCACTVHR" value="true"/>
+                                        <List field="Rec1721145678290-2836-VQIAI5AAAAAYN2TPVCACTVHR" size="3">
+                                            <String value="Incident Location"/>
+                                            <String value="true"/>
+                                            <String value="Rel_ConnectLocationInvolvedVA"/>
+                                        </List>
+                                    </LinkedMap>
+                                </KCXML>
+                            </HeaderField>
+                            <HeaderField field="recIDToCalcRoles">
+                                <KCXML>
+                                    <LinkedMap size="1">
+                                        <List field="Rec1721145678290-2836-VQIAI5AAAAAYN2TPVCACTVHR" size="1">
+                                            <String value="_Incident Location"/>
+                                        </List>
+                                    </LinkedMap>
+                                </KCXML>
+                            </HeaderField>
+                        </HeaderFields>
+                    </DocumentInfo>
+                    <DocumentBody field="body" formatVersion="1" showEmptyFields="false" showLabels="false" status="1044">
+                        <CompoundRecord ID="Rec1721145678282-2810-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Location" hidden="false" highlight="false" status="1052">
+                            <SimpleRecord ID="Rec1721145678282-2811-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Integration" hidden="false" highlight="false" status="1052">
+                                <Primitive content="Complete" field="LastConnectLocationSearched" hidden="true" highlight="false" kind="SingleValue" status="1035">2024-07-16T16:58:00.000+01:00</Primitive>
+                                <Primitive content="Complete" field="CreateNewConnectLocation" hidden="true" highlight="false" kind="SingleValue" status="1034">Link existing</Primitive>
+                                <Primitive content="Complete" field="ConnectLocationIDLink" hidden="false" highlight="false" kind="SingleValue" status="1048">
+                                    <KCXML>
+                                        <Link label="Go to Location">
+                                            <SearchLinkData field="value" linkType="GetItemRequest" searchType="NORTHGATECONNECT_LOCATION">
+                                                <DefaultItemRequestKey field="itemKey">
+                                                    <Integer field="object" value="3882788"/>
+                                                </DefaultItemRequestKey>
+                                            </SearchLinkData>
+                                        </Link>
+                                    </KCXML>
+                                </Primitive>
+                                <Primitive content="Complete" field="ConnectLocationGroupRef" hidden="true" highlight="false" kind="SingleValue" status="1034">3882788</Primitive>
+                                <Primitive content="Complete" field="LastGazetteerLocationSearched" hidden="true" highlight="false" kind="SingleValue" status="1035">2024-07-16T16:57:56.000+01:00</Primitive>
+                            </SimpleRecord>
+                            <SimpleRecord ID="Rec1721145678282-2812-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Address" hidden="false" highlight="false" status="1052">
+                                <Primitive content="Complete" field="Postcode" hidden="false" highlight="false" kind="SingleValue" status="1048">S7 1SB</Primitive>
+                                <Primitive content="Complete" field="PremisesNumber" hidden="false" highlight="false" kind="SingleValue" status="1052">22</Primitive>
+                                <Primitive content="Complete" field="AddressLine1" hidden="false" highlight="false" kind="SingleValue" status="1052">RAVEN ROAD</Primitive>
+                                <Primitive content="Complete" field="Town" hidden="false" highlight="false" kind="SingleValue" status="1052">Sheffield</Primitive>
+                                <Primitive content="Complete" field="County" hidden="true" highlight="false" kind="SingleValue" status="1034">SHEFFIELD</Primitive>
+                                <Primitive content="Complete" field="WardCode" hidden="true" highlight="false" kind="SingleValue" status="1034" value="Nether Edge Ward">Nether Edge Ward</Primitive>
+                            </SimpleRecord>
+                        </CompoundRecord>
+                        <CompoundList content="Incomplete" field="Events" hidden="false" highlight="false" status="1044" statusID="Positive">
+                            <CompoundRecord ID="Rec1721145678290-2836-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" hidden="false" highlight="false" status="1044" type="Rel_ConnectLocationInvolvedVA">
+                                <Primitive content="Complete" field="Role" hidden="false" highlight="false" kind="Structured" status="1052" text="Incident Location">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Incident Location</PickValue>
+                                        <PickValue name="Code">INCIDENT LOCATION</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="DwellingType" hidden="false" highlight="false" kind="Structured" status="1052" text="House - Mid Terrace">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">House - Mid Terrace</PickValue>
+                                        <PickValue name="Code">102</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <SimpleRecord ID="Rec1721145678290-2837-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" field="LocationDetails" hidden="false" highlight="false" status="1044">
+                                    <SimpleRecord ID="Rec1721145678290-2838-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Integration" hidden="false" highlight="false" status="1052">
+                                        <Primitive content="Complete" field="CreateNewConnectLocation" hidden="false" highlight="false" kind="SingleValue" status="1052">Create new</Primitive>
+                                    </SimpleRecord>
+                                </SimpleRecord>
+                                <Primitive content="Complete" field="IsComplete" hidden="true" highlight="false" kind="SingleValue" status="1035" value="true">Yes</Primitive>
+                                <Primitive content="Complete" field="RefDocumentID" hidden="true" highlight="false" kind="SingleValue" status="1051">Doc1721145678213-2609-VQIAI5AAAAAYN2TPVCACTVHR</Primitive>
+                                <Primitive content="Complete" field="RecordID" hidden="true" highlight="false" kind="SingleValue" status="1051">Rec1721145678290-2836-VQIAI5AAAAAYN2TPVCACTVHR</Primitive>
+                                <Primitive content="Complete" field="_CalculatedRoles_" hidden="true" highlight="false" kind="MultipleValue" status="1051" text="[_Incident Location]">
+                                    <Term>_Incident Location</Term>
+                                </Primitive>
+                            </CompoundRecord>
+                        </CompoundList>
+                    </DocumentBody>
+                </Document>
+            </ExportedDocument>
+            <ExportedDocument exportedAuthor="753061C" exportedSessionID="VQIAI5AAAAAYN2TPVCACTVHR" exportedSystem="56067L" exportedTime="2024-07-16T17:09:00.261+01:00" id="EX1721146140261-3617-VQIAI5AAAAAYN2TPVCACTVHR" label="Person: Mehreen RIASAT">
+                <UserDetails field="userDetails" name="753061C">
+                    <Groups>
+                        <String value="Officer"/>
+                    </Groups>
+                    <Roles>
+                        <String value="ASBCreateDocument"/>
+                        <String value="All Role"/>
+                        <String value="AllowEventCrash"/>
+                        <String value="AllowEventDashConnect"/>
+                        <String value="AllowEventInvestigationConnect"/>
+                        <String value="AllowEventSDashConnect"/>
+                        <String value="AllowEventSuddenDeath"/>
+                        <String value="AllowEventVAConnect"/>
+                        <String value="AllowEventVCConnect"/>
+                        <String value="AllowFormConnectStopSearch"/>
+                        <String value="AllowFormEWS"/>
+                        <String value="AllowFormIntelConnect"/>
+                        <String value="AllowFormRecordOfInterview"/>
+                        <String value="AllowFormUseOfForce"/>
+                        <String value="AllowFormVehicleTicket"/>
+                        <String value="AllowTextEntry"/>
+                        <String value="AllowUseOfForceViewDocumentsFolder"/>
+                        <String value="CannabisWarningCreateDocument"/>
+                        <String value="CannabisWarningViewNewReports"/>
+                        <String value="CheckKerberos"/>
+                        <String value="ContactSlipCreateDocument"/>
+                        <String value="CrimeCreateDocument"/>
+                        <String value="CrimeUnifiCreateDocument"/>
+                        <String value="DARACreateDocument"/>
+                        <String value="DashCreateDocument"/>
+                        <String value="FeedbackCreateDocument"/>
+                        <String value="IntelCreateDocument"/>
+                        <String value="IntelNicheCreateDocument"/>
+                        <String value="LocationCreateDocument"/>
+                        <String value="LocationObjectsView"/>
+                        <String value="ManagerLogin"/>
+                        <String value="MissingPersonCreateDocument"/>
+                        <String value="Officer"/>
+                        <String value="OrganisationCreateDocument"/>
+                        <String value="OrganisationObjectsView"/>
+                        <String value="PDALogin"/>
+                        <String value="PNDCreateDocument"/>
+                        <String value="PersonAtRiskCreateDocument"/>
+                        <String value="PersonCreateDocument"/>
+                        <String value="PersonObjectsView"/>
+                        <String value="PropertyCreateDocument"/>
+                        <String value="PropertyObjectsView"/>
+                        <String value="RTCCreateDocument"/>
+                        <String value="RecordOfInterviewCreateDocument"/>
+                        <String value="RoadDefectCreateDocument"/>
+                        <String value="SceneInvestigationCreateDocument"/>
+                        <String value="SceneObjectsView"/>
+                        <String value="SendVehicleTicket"/>
+                        <String value="SetupDevice"/>
+                        <String value="SouthYorkshire"/>
+                        <String value="StopSearchCreateDocument"/>
+                        <String value="SuddenDeathCreateDocument"/>
+                        <String value="TakePhoto"/>
+                        <String value="TasksView"/>
+                        <String value="UserOfConnect"/>
+                        <String value="UserOfDVLA"/>
+                        <String value="UserOfLynx"/>
+                        <String value="UserOfNiche"/>
+                        <String value="UserOfPNC"/>
+                        <String value="UserOfSmart"/>
+                        <String value="UserOfSmartAndCADWidget"/>
+                        <String value="VehicleCreateDocument"/>
+                        <String value="VehicleObjectsView"/>
+                        <String value="VehicleTicketCreateDocument"/>
+                        <String value="VehicleTicketPhotos"/>
+                        <String value="ViewCasesFolder"/>
+                        <String value="ViewCrimesFolder"/>
+                        <String value="ViewEntriesFolder"/>
+                        <String value="ViewInbox"/>
+                        <String value="ViewIncidentsFolder"/>
+                        <String value="ViewInvalidDocs"/>
+                        <String value="ViewInvestigationsFolder"/>
+                        <String value="ViewNotebook"/>
+                        <String value="ViewOutbox"/>
+                        <String value="ViewPhotos"/>
+                        <String value="ViewRTCsFolder"/>
+                        <String value="ViewRecordOfInterviewFolder"/>
+                        <String value="ViewSend"/>
+                        <String value="ViewStatementsFolder"/>
+                        <String value="ViewUseOfForceFolder"/>
+                        <String value="WebLogin"/>
+                    </Roles>
+                    <Properties>
+                        <String field="UserOfBSGPolice" value="No"/>
+                        <String field="LoginName" value="753061"/>
+                        <String field="Email" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                        <String field="LynxHeaderEmailLive" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                        <String field="UserOfDARA" value="No"/>
+                        <String field="UserOfAndroidAuto" value="No"/>
+                        <String field="UserOfTWS" value="Yes"/>
+                        <String field="UserOfNSPIS" value="No"/>
+                        <String field="ProCadUserID" value="0928"/>
+                        <String field="LynxHeaderIMEITraining" value="354256.04.785384.1"/>
+                        <String field="UserOfCrash" value="Yes"/>
+                        <String field="LiveMode" value="Yes"/>
+                        <String field="UserOfRTC" value="No"/>
+                        <String field="ConnectUsername" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                        <String field="UserOfDVLA" value="Yes"/>
+                        <String field="UserOfILEAPPersonSearch" value="No"/>
+                        <String field="UserOfVAVC" value="No"/>
+                        <String field="UserOfILEAPDocumentSearch" value="No"/>
+                        <String field="UserOfVehicleTicket" value="Yes"/>
+                        <String field="UserOfVA" value="Yes"/>
+                        <String field="UserOfEWS" value="Yes"/>
+                        <String field="UserOfVC" value="Yes"/>
+                        <String field="stormCmdCtrlUserTrng" value="753061"/>
+                        <String field="UserOfCIS4" value="No"/>
+                        <String field="UserOfPersonAtRisk" value="Yes"/>
+                        <String field="UserOfCrime" value="Yes"/>
+                        <String field="PNCUserID" value="0928"/>
+                        <String field="InterpolUser" value="753061"/>
+                        <String field="Force" value="South Yorkshire Police"/>
+                        <String field="ADUsername" value="753061@SYP.SOUTHYORKS.POLICE.UK"/>
+                        <String field="UserOfILEAPVehicleSearch" value="No"/>
+                        <String field="UserOfLynxHP" value="No"/>
+                        <String field="UserOfIntel" value="Yes"/>
+                        <String field="UserOfSmart" value="Yes"/>
+                        <String field="Forename" value="Eleanor"/>
+                        <String field="UserOfLynx" value="Yes"/>
+                        <String field="UserOfConnectStopSearch" value="Yes"/>
+                        <String field="Deleted" value="false"/>
+                        <String field="UserOfStopSearch" value="Yes"/>
+                        <String field="UserOfSDash" value="Yes"/>
+                        <String field="stormCmdCtrlUser" value="753061"/>
+                        <String field="UserOfDash" value="Yes"/>
+                        <String field="LynxHeaderIMEILive" value="753061"/>
+                        <String field="UserOfBSGImmigration" value="No"/>
+                        <String field="ConnectUsernameTraining" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                        <String field="LynxRIMDeviceIDTraining" value="26150DD6"/>
+                        <String field="UserOfPNC" value="Yes"/>
+                        <String field="UserOfUseOfForce" value="Yes"/>
+                        <String field="UserOfVCInVAVC" value="No"/>
+                        <String field="UserOfConnect" value="Yes"/>
+                        <String field="Rank" value="PC"/>
+                        <String field="UserOfCnC" value="No"/>
+                        <String field="UserOfRecordOfInterview" value="Yes"/>
+                        <String field="LynxRIMDeviceIDLive" value="753061"/>
+                        <String field="UserOfFine" value="Yes"/>
+                        <String field="Surname" value="Davis"/>
+                        <String field="LynxHeaderEmailTraining" value="trainermip1@southyorks.pnn.police.uk"/>
+                        <String field="CollarNumber" value="0928"/>
+                        <String field="UserOfSuddenDeath" value="Yes"/>
+                    </Properties>
+                </UserDetails>
+                <AssetDetails ID="VQIAI2AAAAAX3QN4VCOGXLZ2" engineVersion="27.61.2 (desktop)" field="assetDetails" name="56067L" sessionID="VQIAI5AAAAAYN2TPVCACTVHR" workpackageVersion="12.16.2">
+                    <Properties/>
+                </AssetDetails>
+                <Properties/>
+                <Document ID="Doc1721146102504-3419-VQIAI5AAAAAYN2TPVCACTVHR" field="document" formName="Connect_Person" indexID="0" typeName="Connect_Person:Default">
+                    <DocumentInfo creationAuthor="753061C" creationDate="2024-07-16T17:08:22.504+01:00" creationSessionID="VQIAI5AAAAAYN2TPVCACTVHR" creationSystem="56067L" formatVersion="1" hasAdhocTerms="false" highlight="false" isComplete="false" isDownloaded="false" isValid="true" labelText="Person: Mehreen RIASAT" lastModifiedAuthor="753061C" lastModifiedDate="2024-07-16T17:08:57.514+01:00" lastModifiedSessionID="VQIAI5AAAAAYN2TPVCACTVHR" lastModifiedSystem="56067L" readOnly="false" sentStatus="DRAFT" timeBugRepaired="true" versionID="EX1721146140261-3617-VQIAI5AAAAAYN2TPVCACTVHR">
+                        <OtherProperties/>
+                        <OtherContingentProperties/>
+                        <UserDetails field="creationUserData" name="753061C">
+                            <Groups>
+                                <String value="Officer"/>
+                            </Groups>
+                            <Roles>
+                                <String value="ASBCreateDocument"/>
+                                <String value="All Role"/>
+                                <String value="AllowEventCrash"/>
+                                <String value="AllowEventDashConnect"/>
+                                <String value="AllowEventInvestigationConnect"/>
+                                <String value="AllowEventSDashConnect"/>
+                                <String value="AllowEventSuddenDeath"/>
+                                <String value="AllowEventVAConnect"/>
+                                <String value="AllowEventVCConnect"/>
+                                <String value="AllowFormConnectStopSearch"/>
+                                <String value="AllowFormEWS"/>
+                                <String value="AllowFormIntelConnect"/>
+                                <String value="AllowFormRecordOfInterview"/>
+                                <String value="AllowFormUseOfForce"/>
+                                <String value="AllowFormVehicleTicket"/>
+                                <String value="AllowTextEntry"/>
+                                <String value="AllowUseOfForceViewDocumentsFolder"/>
+                                <String value="CannabisWarningCreateDocument"/>
+                                <String value="CannabisWarningViewNewReports"/>
+                                <String value="CheckKerberos"/>
+                                <String value="ContactSlipCreateDocument"/>
+                                <String value="CrimeCreateDocument"/>
+                                <String value="CrimeUnifiCreateDocument"/>
+                                <String value="DARACreateDocument"/>
+                                <String value="DashCreateDocument"/>
+                                <String value="FeedbackCreateDocument"/>
+                                <String value="IntelCreateDocument"/>
+                                <String value="IntelNicheCreateDocument"/>
+                                <String value="LocationCreateDocument"/>
+                                <String value="LocationObjectsView"/>
+                                <String value="ManagerLogin"/>
+                                <String value="MissingPersonCreateDocument"/>
+                                <String value="Officer"/>
+                                <String value="OrganisationCreateDocument"/>
+                                <String value="OrganisationObjectsView"/>
+                                <String value="PDALogin"/>
+                                <String value="PNDCreateDocument"/>
+                                <String value="PersonAtRiskCreateDocument"/>
+                                <String value="PersonCreateDocument"/>
+                                <String value="PersonObjectsView"/>
+                                <String value="PropertyCreateDocument"/>
+                                <String value="PropertyObjectsView"/>
+                                <String value="RTCCreateDocument"/>
+                                <String value="RecordOfInterviewCreateDocument"/>
+                                <String value="RoadDefectCreateDocument"/>
+                                <String value="SceneInvestigationCreateDocument"/>
+                                <String value="SceneObjectsView"/>
+                                <String value="SendVehicleTicket"/>
+                                <String value="SetupDevice"/>
+                                <String value="SouthYorkshire"/>
+                                <String value="StopSearchCreateDocument"/>
+                                <String value="SuddenDeathCreateDocument"/>
+                                <String value="TakePhoto"/>
+                                <String value="TasksView"/>
+                                <String value="UserOfConnect"/>
+                                <String value="UserOfDVLA"/>
+                                <String value="UserOfLynx"/>
+                                <String value="UserOfNiche"/>
+                                <String value="UserOfPNC"/>
+                                <String value="UserOfSmart"/>
+                                <String value="UserOfSmartAndCADWidget"/>
+                                <String value="VehicleCreateDocument"/>
+                                <String value="VehicleObjectsView"/>
+                                <String value="VehicleTicketCreateDocument"/>
+                                <String value="VehicleTicketPhotos"/>
+                                <String value="ViewCasesFolder"/>
+                                <String value="ViewCrimesFolder"/>
+                                <String value="ViewEntriesFolder"/>
+                                <String value="ViewInbox"/>
+                                <String value="ViewIncidentsFolder"/>
+                                <String value="ViewInvalidDocs"/>
+                                <String value="ViewInvestigationsFolder"/>
+                                <String value="ViewNotebook"/>
+                                <String value="ViewOutbox"/>
+                                <String value="ViewPhotos"/>
+                                <String value="ViewRTCsFolder"/>
+                                <String value="ViewRecordOfInterviewFolder"/>
+                                <String value="ViewSend"/>
+                                <String value="ViewStatementsFolder"/>
+                                <String value="ViewUseOfForceFolder"/>
+                                <String value="WebLogin"/>
+                            </Roles>
+                            <Properties>
+                                <String field="UserOfBSGPolice" value="No"/>
+                                <String field="LoginName" value="753061"/>
+                                <String field="Email" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                                <String field="LynxHeaderEmailLive" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                                <String field="UserOfDARA" value="No"/>
+                                <String field="UserOfAndroidAuto" value="No"/>
+                                <String field="UserOfTWS" value="Yes"/>
+                                <String field="UserOfNSPIS" value="No"/>
+                                <String field="ProCadUserID" value="0928"/>
+                                <String field="LynxHeaderIMEITraining" value="354256.04.785384.1"/>
+                                <String field="UserOfCrash" value="Yes"/>
+                                <String field="LiveMode" value="Yes"/>
+                                <String field="UserOfRTC" value="No"/>
+                                <String field="ConnectUsername" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                                <String field="UserOfDVLA" value="Yes"/>
+                                <String field="UserOfILEAPPersonSearch" value="No"/>
+                                <String field="UserOfVAVC" value="No"/>
+                                <String field="UserOfILEAPDocumentSearch" value="No"/>
+                                <String field="UserOfVehicleTicket" value="Yes"/>
+                                <String field="UserOfVA" value="Yes"/>
+                                <String field="UserOfEWS" value="Yes"/>
+                                <String field="UserOfVC" value="Yes"/>
+                                <String field="stormCmdCtrlUserTrng" value="753061"/>
+                                <String field="UserOfCIS4" value="No"/>
+                                <String field="UserOfPersonAtRisk" value="Yes"/>
+                                <String field="UserOfCrime" value="Yes"/>
+                                <String field="PNCUserID" value="0928"/>
+                                <String field="InterpolUser" value="753061"/>
+                                <String field="Force" value="South Yorkshire Police"/>
+                                <String field="ADUsername" value="753061@SYP.SOUTHYORKS.POLICE.UK"/>
+                                <String field="UserOfILEAPVehicleSearch" value="No"/>
+                                <String field="UserOfLynxHP" value="No"/>
+                                <String field="UserOfIntel" value="Yes"/>
+                                <String field="UserOfSmart" value="Yes"/>
+                                <String field="Forename" value="Eleanor"/>
+                                <String field="UserOfLynx" value="Yes"/>
+                                <String field="UserOfConnectStopSearch" value="Yes"/>
+                                <String field="Deleted" value="false"/>
+                                <String field="UserOfStopSearch" value="Yes"/>
+                                <String field="UserOfSDash" value="Yes"/>
+                                <String field="stormCmdCtrlUser" value="753061"/>
+                                <String field="UserOfDash" value="Yes"/>
+                                <String field="LynxHeaderIMEILive" value="753061"/>
+                                <String field="UserOfBSGImmigration" value="No"/>
+                                <String field="ConnectUsernameTraining" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                                <String field="LynxRIMDeviceIDTraining" value="26150DD6"/>
+                                <String field="UserOfPNC" value="Yes"/>
+                                <String field="UserOfUseOfForce" value="Yes"/>
+                                <String field="UserOfVCInVAVC" value="No"/>
+                                <String field="UserOfConnect" value="Yes"/>
+                                <String field="Rank" value="PC"/>
+                                <String field="UserOfCnC" value="No"/>
+                                <String field="UserOfRecordOfInterview" value="Yes"/>
+                                <String field="LynxRIMDeviceIDLive" value="753061"/>
+                                <String field="UserOfFine" value="Yes"/>
+                                <String field="Surname" value="Davis"/>
+                                <String field="LynxHeaderEmailTraining" value="trainermip1@southyorks.pnn.police.uk"/>
+                                <String field="CollarNumber" value="0928"/>
+                                <String field="UserOfSuddenDeath" value="Yes"/>
+                            </Properties>
+                        </UserDetails>
+                        <HeaderFields>
+                            <HeaderField field="Forename">Mehreen</HeaderField>
+                            <HeaderField field="Surname">RIASAT</HeaderField>
+                            <HeaderField field="CreatedOnServer">false</HeaderField>
+                            <HeaderField field="docToRecIDs">
+                                <KCXML>
+                                    <LinkedMap size="1">
+                                        <List field="Doc1721145678213-2609-VQIAI5AAAAAYN2TPVCACTVHR" size="1">
+                                            <String value="Rec1721146102517-3499-VQIAI5AAAAAYN2TPVCACTVHR"/>
+                                        </List>
+                                    </LinkedMap>
+                                </KCXML>
+                            </HeaderField>
+                            <HeaderField field="recIDToRel">
+                                <KCXML>
+                                    <LinkedMap size="2">
+                                        <List field="Rec1721146102517-3499-VQIAI5AAAAAYN2TPVCACTVHR" size="3">
+                                            <String value="[Suspect]"/>
+                                            <String value="true"/>
+                                            <String value="Rel_ConnectPersonInvolvedVA"/>
+                                        </List>
+                                        <String field="Doc1721146102504-3419-VQIAI5AAAAAYN2TPVCACTVHR" value="true"/>
+                                    </LinkedMap>
+                                </KCXML>
+                            </HeaderField>
+                            <HeaderField field="recIDToCalcRoles">
+                                <KCXML>
+                                    <LinkedMap size="1">
+                                        <List field="Rec1721146102517-3499-VQIAI5AAAAAYN2TPVCACTVHR" size="1">
+                                            <String value="_Suspect"/>
+                                        </List>
+                                    </LinkedMap>
+                                </KCXML>
+                            </HeaderField>
+                        </HeaderFields>
+                    </DocumentInfo>
+                    <DocumentBody field="body" formatVersion="1" showEmptyFields="false" showLabels="false" status="1044">
+                        <CompoundRecord ID="Rec1721146102505-3421-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" field="Person" hidden="false" highlight="false" status="1044">
+                            <SimpleRecord ID="Rec1721146102505-3422-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Integration" hidden="false" highlight="false" status="1052">
+                                <Primitive content="Complete" field="LastConnectPersonSearched" hidden="true" highlight="false" kind="SingleValue" status="1035">2024-07-16T17:08:31.000+01:00</Primitive>
+                                <Primitive content="Complete" field="CreateNewConnectPerson" hidden="true" highlight="false" kind="SingleValue" status="1034">Link existing</Primitive>
+                                <Primitive content="Complete" field="ConnectPersonIDLink" hidden="false" highlight="false" kind="SingleValue" status="1048">
+                                    <KCXML>
+                                        <Link label="Go to Person">
+                                            <SearchLinkData field="value" linkType="GetItemRequest" searchType="NORTHGATECONNECT_PERSON">
+                                                <DefaultItemRequestKey field="itemKey">
+                                                    <Integer field="object" value="4418547"/>
+                                                </DefaultItemRequestKey>
+                                            </SearchLinkData>
+                                        </Link>
+                                    </KCXML>
+                                </Primitive>
+                                <Primitive content="Complete" field="ConnectPersonGroupRef" hidden="true" highlight="false" kind="SingleValue" status="1034">4418547</Primitive>
+                                <Primitive content="Complete" field="Researched" hidden="true" highlight="false" kind="SingleValue" status="1034">true</Primitive>
+                            </SimpleRecord>
+                            <SimpleRecord ID="Rec1721146102505-3423-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" field="Details" hidden="false" highlight="false" status="1044">
+                                <Primitive content="Complete" field="Forename" hidden="false" highlight="false" kind="SingleValue" status="1052">Mehreen</Primitive>
+                                <Primitive content="Complete" field="Surname" hidden="false" highlight="false" kind="SingleValue" status="1052">RIASAT</Primitive>
+                                <Primitive content="Complete" field="Sex" hidden="false" highlight="false" kind="Structured" status="1052" text="Female">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Female</PickValue>
+                                        <PickValue name="Code">2</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="DateOfBirthKnown" hidden="false" highlight="false" kind="SingleValue" status="1052" value="true">Yes</Primitive>
+                                <Primitive content="Complete" field="DateOfBirth" hidden="false" highlight="false" kind="SingleValue" status="1052">1994-01-07T00:00:00.000</Primitive>
+                                <Primitive content="Complete" field="PlaceOfBirth" hidden="false" highlight="false" kind="SingleValue" status="1048">SHEFFIELD</Primitive>
+                                <Primitive content="Complete" field="AgeCategory" hidden="true" highlight="false" kind="SingleValue" status="1034">Over 18</Primitive>
+                            </SimpleRecord>
+                            <SimpleRecord ID="Rec1721146102505-3424-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Address" hidden="false" highlight="false" status="1052">
+                                <Primitive content="Complete" field="AddressType" hidden="false" highlight="false" kind="SingleValue" status="1052">HOME ADDRESS</Primitive>
+                                <Primitive content="Complete" field="EditAddress" hidden="false" highlight="false" kind="SingleValue" status="1048" value="false">No</Primitive>
+                                <Primitive content="Complete" field="Postcode" hidden="false" highlight="false" kind="SingleValue" status="1049">S7 1SB</Primitive>
+                                <Primitive content="Complete" field="PremisesNumber" hidden="false" highlight="false" kind="SingleValue" status="1053">22</Primitive>
+                                <Primitive content="Complete" field="AddressLine1" hidden="false" highlight="false" kind="SingleValue" status="1049">RAVEN ROAD</Primitive>
+                                <Primitive content="Complete" field="Town" hidden="false" highlight="false" kind="SingleValue" status="1049">Sheffield</Primitive>
+                                <Primitive content="Complete" field="County" hidden="true" highlight="false" kind="SingleValue" status="1034">SHEFFIELD</Primitive>
+                                <Primitive content="Complete" field="GroupRef" hidden="true" highlight="false" kind="SingleValue" status="1034">1723300</Primitive>
+                                <Primitive content="Complete" field="Link" hidden="false" highlight="false" kind="SingleValue" status="1049">
+                                    <KCXML>
+                                        <Link label="Go to Location">
+                                            <SearchLinkData field="value" linkType="GetItemRequest" searchType="NORTHGATECONNECT_LOCATION">
+                                                <DefaultItemRequestKey field="itemKey">
+                                                    <Integer field="object" value="1723300"/>
+                                                </DefaultItemRequestKey>
+                                            </SearchLinkData>
+                                        </Link>
+                                    </KCXML>
+                                </Primitive>
+                                <Primitive content="Complete" field="NewAddress" hidden="true" highlight="false" kind="SingleValue" status="1034" value="false">No</Primitive>
+                                <Primitive content="Complete" field="Researched" hidden="true" highlight="false" kind="SingleValue" status="1034">true</Primitive>
+                            </SimpleRecord>
+                            <Primitive content="Complete" field="HasAdditionalAddresses" hidden="true" highlight="false" kind="SingleValue" status="1035" value="false">No</Primitive>
+                            <SimpleRecord ID="Rec1721146102505-3426-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Description" hidden="false" highlight="false" status="1052">
+                                <Primitive content="Complete" field="EthnicAppearance" hidden="false" highlight="false" kind="Structured" status="1052" text="Asian">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Asian</PickValue>
+                                        <PickValue name="Code">4</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="SelfDefinedEthnicity" hidden="false" highlight="false" kind="Structured" status="1052" text="Pakistani">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Pakistani</PickValue>
+                                        <PickValue name="Code">A2</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                            </SimpleRecord>
+                            <SimpleRecord ID="Rec1721146102505-3427-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Employment" hidden="false" highlight="false" status="1052">
+                                <Primitive content="Complete" field="Occupation" hidden="false" highlight="false" kind="Structured" status="1052" text="Unemployed">
+                                    <StructuredPickItem>
+                                        <PickValue name="SubOccupationValue">Unemployed</PickValue>
+                                        <PickValue name="OccupationCode">60</PickValue>
+                                        <PickValue name="SubOccupationCode">6001</PickValue>
+                                        <PickValue name="OccupationValue">Unemployed</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="SubOccupation" hidden="false" highlight="false" kind="Structured" status="1052" text="Unemployed">
+                                    <StructuredPickItem>
+                                        <PickValue name="SubOccupationValue">Unemployed</PickValue>
+                                        <PickValue name="OccupationCode">60</PickValue>
+                                        <PickValue name="SubOccupationCode">6001</PickValue>
+                                        <PickValue name="OccupationValue">Unemployed</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="MemberOfArmedForces" hidden="true" highlight="false" kind="SingleValue" status="1035" value="false">No</Primitive>
+                                <Primitive content="Complete" field="OccupationHidden" hidden="true" highlight="false" kind="Structured" status="1034" text="Armed Forces">
+                                    <StructuredPickItem>
+                                        <PickValue name="SubOccupationValue">Air Force Personnel</PickValue>
+                                        <PickValue name="OccupationCode">5</PickValue>
+                                        <PickValue name="SubOccupationCode">501</PickValue>
+                                        <PickValue name="OccupationValue">Armed Forces</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                            </SimpleRecord>
+                            <SimpleRecord ID="Rec1721146102505-3428-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Nationality" hidden="false" highlight="false" status="1048">
+                                <Primitive content="Complete" field="Nationality" hidden="false" highlight="false" kind="Structured" status="1048" text="British">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">British</PickValue>
+                                        <PickValue name="Code">GBR</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                            </SimpleRecord>
+                            <SimpleRecord ID="Rec1721146102505-3430-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="OtherInfo" hidden="true" highlight="false" status="1034">
+                                <Primitive content="Complete" field="Language" hidden="false" highlight="false" kind="Structured" status="1052" text="English">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">English</PickValue>
+                                        <PickValue name="Code">ENGLISH</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="SexualOrientation" hidden="false" highlight="false" kind="Structured" status="1052" text="Heterosexual">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Heterosexual</PickValue>
+                                        <PickValue name="Code">HETEROSEXUAL</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="Religion" hidden="false" highlight="false" kind="Structured" status="1052" text="Muslim">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Muslim</PickValue>
+                                        <PickValue name="Code">41</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                            </SimpleRecord>
+                            <SimpleList content="Incomplete" field="Disabilities" hidden="false" highlight="false" status="1044">
+                                <SimpleRecord ID="Rec1721146125744-3573-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" hidden="false" highlight="false" status="1044" type="ConnectPerson_Disability">
+                                    <Primitive content="Complete" field="Disability" hidden="false" highlight="false" kind="Structured" status="1052" text="No Disability">
+                                        <StructuredPickItem>
+                                            <PickValue name="Value">No Disability</PickValue>
+                                            <PickValue name="Code">ND</PickValue>
+                                        </StructuredPickItem>
+                                    </Primitive>
+                                </SimpleRecord>
+                            </SimpleList>
+                        </CompoundRecord>
+                        <CompoundList content="Complete" field="SearchResults" hidden="false" highlight="false" status="1048" statusID="Positive">
+                            <CompoundRecord ID="Rec1721146107779-3529-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" hidden="false" highlight="false" status="1044" type="OTA_SearchStamp">
+                                <Primitive content="Complete" field="SearchTypes" hidden="false" highlight="false" kind="MultipleValue" status="1053" text="[NORTHGATECONNECT_PERSON]">
+                                    <Term>NORTHGATECONNECT_PERSON</Term>
+                                </Primitive>
+                                <Primitive content="Complete" field="Surname" hidden="false" highlight="false" kind="SingleValue" status="1053">RIASAT</Primitive>
+                                <Primitive content="Complete" field="Forename" hidden="false" highlight="false" kind="SingleValue" status="1053">Mehreen</Primitive>
+                                <Primitive content="Complete" field="DateOfBirth" hidden="false" highlight="false" kind="SingleValue" status="1053">Fri Jan 07 00:00:00 GMT 1994</Primitive>
+                                <Primitive content="Complete" field="SearchDateTime" hidden="false" highlight="false" kind="SingleValue" status="1053">2024-07-16T17:08:27.000+01:00</Primitive>
+                                <Primitive content="Complete" field="IdentificationID" hidden="false" highlight="false" kind="SingleValue" status="1053">1600001234C</Primitive>
+                            </CompoundRecord>
+                        </CompoundList>
+                        <CompoundList content="Incomplete" field="Role" hidden="false" highlight="false" status="1044" statusID="Positive">
+                            <CompoundRecord ID="Rec1721146102517-3499-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" hidden="false" highlight="false" status="1044" type="Rel_ConnectPersonInvolvedVA">
+                                <Primitive content="Complete" field="Role" hidden="false" highlight="false" kind="MultipleValue" status="1052" text="[Suspect]">
+                                    <Term>
+                                        <StructuredPickItem label="Suspect">
+                                            <PickValue name="Value">Suspect</PickValue>
+                                            <PickValue name="Code">SUSPECT</PickValue>
+                                        </StructuredPickItem>
+                                    </Term>
+                                </Primitive>
+                                <SimpleRecord ID="Rec1721146102517-3500-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" field="PersonDetails" hidden="false" highlight="false" status="1044">
+                                    <SimpleRecord ID="Rec1721146102520-3502-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" field="Details" hidden="false" highlight="false" status="1044">
+                                        <Primitive content="Complete" field="DateOfBirthKnown" hidden="false" highlight="false" kind="SingleValue" status="1052" value="true">Yes</Primitive>
+                                    </SimpleRecord>
+                                    <SimpleRecord ID="Rec1721146102520-3503-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" field="Address" hidden="false" highlight="false" status="1028">
+                                        <Primitive content="Complete" field="EditAddress" hidden="true" highlight="false" kind="SingleValue" status="1034" value="true">Yes</Primitive>
+                                        <Primitive content="Complete" field="NewAddress" hidden="true" highlight="false" kind="SingleValue" status="1034" value="true">Yes</Primitive>
+                                    </SimpleRecord>
+                                </SimpleRecord>
+                                <SimpleRecord ID="Rec1721146102520-3509-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" field="ContractDetails" hidden="false" highlight="false" status="1028">
+                                    <Primitive content="Complete" field="FrequencyOfUpdates" hidden="true" highlight="false" kind="SingleValue" status="1034">28</Primitive>
+                                </SimpleRecord>
+                                <SimpleRecord ID="Rec1721146102520-3510-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="SuspectDetails" hidden="false" highlight="false" status="1052">
+                                    <Primitive content="Complete" field="Involvement" hidden="false" highlight="false" kind="Structured" status="1052" text="Suspect">
+                                        <StructuredPickItem>
+                                            <PickValue name="LevelOneValue">Suspect</PickValue>
+                                            <PickValue name="LevelTwoValue">Suspect</PickValue>
+                                            <PickValue name="LevelTwoCode">SUSPECT</PickValue>
+                                            <PickValue name="LevelOneCode">SUSPECT</PickValue>
+                                        </StructuredPickItem>
+                                    </Primitive>
+                                    <Primitive content="Complete" field="VictimRelationship" hidden="false" highlight="false" kind="Structured" status="1052" text="Brother/step-brother/half-brother/adopted brother/sister/step-sister/half-sister">
+                                        <StructuredPickItem>
+                                            <PickValue name="Value">Brother/step-brother/half-brother/adopted brother/sister/step-sister/half-sister</PickValue>
+                                            <PickValue name="Code">3</PickValue>
+                                        </StructuredPickItem>
+                                    </Primitive>
+                                </SimpleRecord>
+                                <Primitive content="Complete" field="InvestigationCopied" hidden="true" highlight="false" kind="SingleValue" status="1034" value="true">Yes</Primitive>
+                                <Primitive content="Complete" field="IsComplete" hidden="true" highlight="false" kind="SingleValue" status="1035" value="false">No</Primitive>
+                                <Primitive content="Complete" field="RefDocumentID" hidden="true" highlight="false" kind="SingleValue" status="1051">Doc1721145678213-2609-VQIAI5AAAAAYN2TPVCACTVHR</Primitive>
+                                <Primitive content="Complete" field="RecordID" hidden="true" highlight="false" kind="SingleValue" status="1051">Rec1721146102517-3499-VQIAI5AAAAAYN2TPVCACTVHR</Primitive>
+                                <Primitive content="Complete" field="_CalculatedRoles_" hidden="true" highlight="false" kind="MultipleValue" status="1051" text="[_Suspect]">
+                                    <Term>_Suspect</Term>
+                                </Primitive>
+                            </CompoundRecord>
+                        </CompoundList>
+                    </DocumentBody>
+                </Document>
+            </ExportedDocument>
+            <ExportedDocument exportedAuthor="753061C" exportedSessionID="VQIAI5AAAAAYN2TPVCACTVHR" exportedSystem="56067L" exportedTime="2024-07-16T17:09:00.261+01:00" id="EX1721146140261-3616-VQIAI5AAAAAYN2TPVCACTVHR" label="Person: Meryem RIASAT">
+                <UserDetails field="userDetails" name="753061C">
+                    <Groups>
+                        <String value="Officer"/>
+                    </Groups>
+                    <Roles>
+                        <String value="ASBCreateDocument"/>
+                        <String value="All Role"/>
+                        <String value="AllowEventCrash"/>
+                        <String value="AllowEventDashConnect"/>
+                        <String value="AllowEventInvestigationConnect"/>
+                        <String value="AllowEventSDashConnect"/>
+                        <String value="AllowEventSuddenDeath"/>
+                        <String value="AllowEventVAConnect"/>
+                        <String value="AllowEventVCConnect"/>
+                        <String value="AllowFormConnectStopSearch"/>
+                        <String value="AllowFormEWS"/>
+                        <String value="AllowFormIntelConnect"/>
+                        <String value="AllowFormRecordOfInterview"/>
+                        <String value="AllowFormUseOfForce"/>
+                        <String value="AllowFormVehicleTicket"/>
+                        <String value="AllowTextEntry"/>
+                        <String value="AllowUseOfForceViewDocumentsFolder"/>
+                        <String value="CannabisWarningCreateDocument"/>
+                        <String value="CannabisWarningViewNewReports"/>
+                        <String value="CheckKerberos"/>
+                        <String value="ContactSlipCreateDocument"/>
+                        <String value="CrimeCreateDocument"/>
+                        <String value="CrimeUnifiCreateDocument"/>
+                        <String value="DARACreateDocument"/>
+                        <String value="DashCreateDocument"/>
+                        <String value="FeedbackCreateDocument"/>
+                        <String value="IntelCreateDocument"/>
+                        <String value="IntelNicheCreateDocument"/>
+                        <String value="LocationCreateDocument"/>
+                        <String value="LocationObjectsView"/>
+                        <String value="ManagerLogin"/>
+                        <String value="MissingPersonCreateDocument"/>
+                        <String value="Officer"/>
+                        <String value="OrganisationCreateDocument"/>
+                        <String value="OrganisationObjectsView"/>
+                        <String value="PDALogin"/>
+                        <String value="PNDCreateDocument"/>
+                        <String value="PersonAtRiskCreateDocument"/>
+                        <String value="PersonCreateDocument"/>
+                        <String value="PersonObjectsView"/>
+                        <String value="PropertyCreateDocument"/>
+                        <String value="PropertyObjectsView"/>
+                        <String value="RTCCreateDocument"/>
+                        <String value="RecordOfInterviewCreateDocument"/>
+                        <String value="RoadDefectCreateDocument"/>
+                        <String value="SceneInvestigationCreateDocument"/>
+                        <String value="SceneObjectsView"/>
+                        <String value="SendVehicleTicket"/>
+                        <String value="SetupDevice"/>
+                        <String value="SouthYorkshire"/>
+                        <String value="StopSearchCreateDocument"/>
+                        <String value="SuddenDeathCreateDocument"/>
+                        <String value="TakePhoto"/>
+                        <String value="TasksView"/>
+                        <String value="UserOfConnect"/>
+                        <String value="UserOfDVLA"/>
+                        <String value="UserOfLynx"/>
+                        <String value="UserOfNiche"/>
+                        <String value="UserOfPNC"/>
+                        <String value="UserOfSmart"/>
+                        <String value="UserOfSmartAndCADWidget"/>
+                        <String value="VehicleCreateDocument"/>
+                        <String value="VehicleObjectsView"/>
+                        <String value="VehicleTicketCreateDocument"/>
+                        <String value="VehicleTicketPhotos"/>
+                        <String value="ViewCasesFolder"/>
+                        <String value="ViewCrimesFolder"/>
+                        <String value="ViewEntriesFolder"/>
+                        <String value="ViewInbox"/>
+                        <String value="ViewIncidentsFolder"/>
+                        <String value="ViewInvalidDocs"/>
+                        <String value="ViewInvestigationsFolder"/>
+                        <String value="ViewNotebook"/>
+                        <String value="ViewOutbox"/>
+                        <String value="ViewPhotos"/>
+                        <String value="ViewRTCsFolder"/>
+                        <String value="ViewRecordOfInterviewFolder"/>
+                        <String value="ViewSend"/>
+                        <String value="ViewStatementsFolder"/>
+                        <String value="ViewUseOfForceFolder"/>
+                        <String value="WebLogin"/>
+                    </Roles>
+                    <Properties>
+                        <String field="UserOfBSGPolice" value="No"/>
+                        <String field="LoginName" value="753061"/>
+                        <String field="Email" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                        <String field="LynxHeaderEmailLive" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                        <String field="UserOfDARA" value="No"/>
+                        <String field="UserOfAndroidAuto" value="No"/>
+                        <String field="UserOfTWS" value="Yes"/>
+                        <String field="UserOfNSPIS" value="No"/>
+                        <String field="ProCadUserID" value="0928"/>
+                        <String field="LynxHeaderIMEITraining" value="354256.04.785384.1"/>
+                        <String field="UserOfCrash" value="Yes"/>
+                        <String field="LiveMode" value="Yes"/>
+                        <String field="UserOfRTC" value="No"/>
+                        <String field="ConnectUsername" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                        <String field="UserOfDVLA" value="Yes"/>
+                        <String field="UserOfILEAPPersonSearch" value="No"/>
+                        <String field="UserOfVAVC" value="No"/>
+                        <String field="UserOfILEAPDocumentSearch" value="No"/>
+                        <String field="UserOfVehicleTicket" value="Yes"/>
+                        <String field="UserOfVA" value="Yes"/>
+                        <String field="UserOfEWS" value="Yes"/>
+                        <String field="UserOfVC" value="Yes"/>
+                        <String field="stormCmdCtrlUserTrng" value="753061"/>
+                        <String field="UserOfCIS4" value="No"/>
+                        <String field="UserOfPersonAtRisk" value="Yes"/>
+                        <String field="UserOfCrime" value="Yes"/>
+                        <String field="PNCUserID" value="0928"/>
+                        <String field="InterpolUser" value="753061"/>
+                        <String field="Force" value="South Yorkshire Police"/>
+                        <String field="ADUsername" value="753061@SYP.SOUTHYORKS.POLICE.UK"/>
+                        <String field="UserOfILEAPVehicleSearch" value="No"/>
+                        <String field="UserOfLynxHP" value="No"/>
+                        <String field="UserOfIntel" value="Yes"/>
+                        <String field="UserOfSmart" value="Yes"/>
+                        <String field="Forename" value="Eleanor"/>
+                        <String field="UserOfLynx" value="Yes"/>
+                        <String field="UserOfConnectStopSearch" value="Yes"/>
+                        <String field="Deleted" value="false"/>
+                        <String field="UserOfStopSearch" value="Yes"/>
+                        <String field="UserOfSDash" value="Yes"/>
+                        <String field="stormCmdCtrlUser" value="753061"/>
+                        <String field="UserOfDash" value="Yes"/>
+                        <String field="LynxHeaderIMEILive" value="753061"/>
+                        <String field="UserOfBSGImmigration" value="No"/>
+                        <String field="ConnectUsernameTraining" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                        <String field="LynxRIMDeviceIDTraining" value="26150DD6"/>
+                        <String field="UserOfPNC" value="Yes"/>
+                        <String field="UserOfUseOfForce" value="Yes"/>
+                        <String field="UserOfVCInVAVC" value="No"/>
+                        <String field="UserOfConnect" value="Yes"/>
+                        <String field="Rank" value="PC"/>
+                        <String field="UserOfCnC" value="No"/>
+                        <String field="UserOfRecordOfInterview" value="Yes"/>
+                        <String field="LynxRIMDeviceIDLive" value="753061"/>
+                        <String field="UserOfFine" value="Yes"/>
+                        <String field="Surname" value="Davis"/>
+                        <String field="LynxHeaderEmailTraining" value="trainermip1@southyorks.pnn.police.uk"/>
+                        <String field="CollarNumber" value="0928"/>
+                        <String field="UserOfSuddenDeath" value="Yes"/>
+                    </Properties>
+                </UserDetails>
+                <AssetDetails ID="VQIAI2AAAAAX3QN4VCOGXLZ2" engineVersion="27.61.2 (desktop)" field="assetDetails" name="56067L" sessionID="VQIAI5AAAAAYN2TPVCACTVHR" workpackageVersion="12.16.2">
+                    <Properties/>
+                </AssetDetails>
+                <Properties/>
+                <Document ID="Doc1721146082733-3304-VQIAI5AAAAAYN2TPVCACTVHR" field="document" formName="Connect_Person" indexID="0" typeName="Connect_Person:Default">
+                    <DocumentInfo creationAuthor="753061C" creationDate="2024-07-16T17:08:02.733+01:00" creationSessionID="VQIAI5AAAAAYN2TPVCACTVHR" creationSystem="56067L" formatVersion="1" hasAdhocTerms="false" highlight="false" isComplete="false" isDownloaded="false" isValid="true" labelText="Person: Meryem RIASAT" lastModifiedAuthor="753061C" lastModifiedDate="2024-07-16T17:08:17.489+01:00" lastModifiedSessionID="VQIAI5AAAAAYN2TPVCACTVHR" lastModifiedSystem="56067L" readOnly="false" sentStatus="DRAFT" timeBugRepaired="true" versionID="EX1721146140261-3616-VQIAI5AAAAAYN2TPVCACTVHR">
+                        <OtherProperties/>
+                        <OtherContingentProperties/>
+                        <UserDetails field="creationUserData" name="753061C">
+                            <Groups>
+                                <String value="Officer"/>
+                            </Groups>
+                            <Roles>
+                                <String value="ASBCreateDocument"/>
+                                <String value="All Role"/>
+                                <String value="AllowEventCrash"/>
+                                <String value="AllowEventDashConnect"/>
+                                <String value="AllowEventInvestigationConnect"/>
+                                <String value="AllowEventSDashConnect"/>
+                                <String value="AllowEventSuddenDeath"/>
+                                <String value="AllowEventVAConnect"/>
+                                <String value="AllowEventVCConnect"/>
+                                <String value="AllowFormConnectStopSearch"/>
+                                <String value="AllowFormEWS"/>
+                                <String value="AllowFormIntelConnect"/>
+                                <String value="AllowFormRecordOfInterview"/>
+                                <String value="AllowFormUseOfForce"/>
+                                <String value="AllowFormVehicleTicket"/>
+                                <String value="AllowTextEntry"/>
+                                <String value="AllowUseOfForceViewDocumentsFolder"/>
+                                <String value="CannabisWarningCreateDocument"/>
+                                <String value="CannabisWarningViewNewReports"/>
+                                <String value="CheckKerberos"/>
+                                <String value="ContactSlipCreateDocument"/>
+                                <String value="CrimeCreateDocument"/>
+                                <String value="CrimeUnifiCreateDocument"/>
+                                <String value="DARACreateDocument"/>
+                                <String value="DashCreateDocument"/>
+                                <String value="FeedbackCreateDocument"/>
+                                <String value="IntelCreateDocument"/>
+                                <String value="IntelNicheCreateDocument"/>
+                                <String value="LocationCreateDocument"/>
+                                <String value="LocationObjectsView"/>
+                                <String value="ManagerLogin"/>
+                                <String value="MissingPersonCreateDocument"/>
+                                <String value="Officer"/>
+                                <String value="OrganisationCreateDocument"/>
+                                <String value="OrganisationObjectsView"/>
+                                <String value="PDALogin"/>
+                                <String value="PNDCreateDocument"/>
+                                <String value="PersonAtRiskCreateDocument"/>
+                                <String value="PersonCreateDocument"/>
+                                <String value="PersonObjectsView"/>
+                                <String value="PropertyCreateDocument"/>
+                                <String value="PropertyObjectsView"/>
+                                <String value="RTCCreateDocument"/>
+                                <String value="RecordOfInterviewCreateDocument"/>
+                                <String value="RoadDefectCreateDocument"/>
+                                <String value="SceneInvestigationCreateDocument"/>
+                                <String value="SceneObjectsView"/>
+                                <String value="SendVehicleTicket"/>
+                                <String value="SetupDevice"/>
+                                <String value="SouthYorkshire"/>
+                                <String value="StopSearchCreateDocument"/>
+                                <String value="SuddenDeathCreateDocument"/>
+                                <String value="TakePhoto"/>
+                                <String value="TasksView"/>
+                                <String value="UserOfConnect"/>
+                                <String value="UserOfDVLA"/>
+                                <String value="UserOfLynx"/>
+                                <String value="UserOfNiche"/>
+                                <String value="UserOfPNC"/>
+                                <String value="UserOfSmart"/>
+                                <String value="UserOfSmartAndCADWidget"/>
+                                <String value="VehicleCreateDocument"/>
+                                <String value="VehicleObjectsView"/>
+                                <String value="VehicleTicketCreateDocument"/>
+                                <String value="VehicleTicketPhotos"/>
+                                <String value="ViewCasesFolder"/>
+                                <String value="ViewCrimesFolder"/>
+                                <String value="ViewEntriesFolder"/>
+                                <String value="ViewInbox"/>
+                                <String value="ViewIncidentsFolder"/>
+                                <String value="ViewInvalidDocs"/>
+                                <String value="ViewInvestigationsFolder"/>
+                                <String value="ViewNotebook"/>
+                                <String value="ViewOutbox"/>
+                                <String value="ViewPhotos"/>
+                                <String value="ViewRTCsFolder"/>
+                                <String value="ViewRecordOfInterviewFolder"/>
+                                <String value="ViewSend"/>
+                                <String value="ViewStatementsFolder"/>
+                                <String value="ViewUseOfForceFolder"/>
+                                <String value="WebLogin"/>
+                            </Roles>
+                            <Properties>
+                                <String field="UserOfBSGPolice" value="No"/>
+                                <String field="LoginName" value="753061"/>
+                                <String field="Email" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                                <String field="LynxHeaderEmailLive" value="eleanor.davis@southyorks.pnn.police.uk"/>
+                                <String field="UserOfDARA" value="No"/>
+                                <String field="UserOfAndroidAuto" value="No"/>
+                                <String field="UserOfTWS" value="Yes"/>
+                                <String field="UserOfNSPIS" value="No"/>
+                                <String field="ProCadUserID" value="0928"/>
+                                <String field="LynxHeaderIMEITraining" value="354256.04.785384.1"/>
+                                <String field="UserOfCrash" value="Yes"/>
+                                <String field="LiveMode" value="Yes"/>
+                                <String field="UserOfRTC" value="No"/>
+                                <String field="ConnectUsername" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                                <String field="UserOfDVLA" value="Yes"/>
+                                <String field="UserOfILEAPPersonSearch" value="No"/>
+                                <String field="UserOfVAVC" value="No"/>
+                                <String field="UserOfILEAPDocumentSearch" value="No"/>
+                                <String field="UserOfVehicleTicket" value="Yes"/>
+                                <String field="UserOfVA" value="Yes"/>
+                                <String field="UserOfEWS" value="Yes"/>
+                                <String field="UserOfVC" value="Yes"/>
+                                <String field="stormCmdCtrlUserTrng" value="753061"/>
+                                <String field="UserOfCIS4" value="No"/>
+                                <String field="UserOfPersonAtRisk" value="Yes"/>
+                                <String field="UserOfCrime" value="Yes"/>
+                                <String field="PNCUserID" value="0928"/>
+                                <String field="InterpolUser" value="753061"/>
+                                <String field="Force" value="South Yorkshire Police"/>
+                                <String field="ADUsername" value="753061@SYP.SOUTHYORKS.POLICE.UK"/>
+                                <String field="UserOfILEAPVehicleSearch" value="No"/>
+                                <String field="UserOfLynxHP" value="No"/>
+                                <String field="UserOfIntel" value="Yes"/>
+                                <String field="UserOfSmart" value="Yes"/>
+                                <String field="Forename" value="Eleanor"/>
+                                <String field="UserOfLynx" value="Yes"/>
+                                <String field="UserOfConnectStopSearch" value="Yes"/>
+                                <String field="Deleted" value="false"/>
+                                <String field="UserOfStopSearch" value="Yes"/>
+                                <String field="UserOfSDash" value="Yes"/>
+                                <String field="stormCmdCtrlUser" value="753061"/>
+                                <String field="UserOfDash" value="Yes"/>
+                                <String field="LynxHeaderIMEILive" value="753061"/>
+                                <String field="UserOfBSGImmigration" value="No"/>
+                                <String field="ConnectUsernameTraining" value="463defb0-b5dc-402f-bc0e-ef0e5aa31d8d"/>
+                                <String field="LynxRIMDeviceIDTraining" value="26150DD6"/>
+                                <String field="UserOfPNC" value="Yes"/>
+                                <String field="UserOfUseOfForce" value="Yes"/>
+                                <String field="UserOfVCInVAVC" value="No"/>
+                                <String field="UserOfConnect" value="Yes"/>
+                                <String field="Rank" value="PC"/>
+                                <String field="UserOfCnC" value="No"/>
+                                <String field="UserOfRecordOfInterview" value="Yes"/>
+                                <String field="LynxRIMDeviceIDLive" value="753061"/>
+                                <String field="UserOfFine" value="Yes"/>
+                                <String field="Surname" value="Davis"/>
+                                <String field="LynxHeaderEmailTraining" value="trainermip1@southyorks.pnn.police.uk"/>
+                                <String field="CollarNumber" value="0928"/>
+                                <String field="UserOfSuddenDeath" value="Yes"/>
+                            </Properties>
+                        </UserDetails>
+                        <HeaderFields>
+                            <HeaderField field="Forename">Meryem</HeaderField>
+                            <HeaderField field="Surname">RIASAT</HeaderField>
+                            <HeaderField field="CreatedOnServer">false</HeaderField>
+                            <HeaderField field="docToRecIDs">
+                                <KCXML>
+                                    <LinkedMap size="1">
+                                        <List field="Doc1721145678213-2609-VQIAI5AAAAAYN2TPVCACTVHR" size="1">
+                                            <String value="Rec1721146082746-3384-VQIAI5AAAAAYN2TPVCACTVHR"/>
+                                        </List>
+                                    </LinkedMap>
+                                </KCXML>
+                            </HeaderField>
+                            <HeaderField field="recIDToRel">
+                                <KCXML>
+                                    <LinkedMap size="2">
+                                        <List field="Rec1721146082746-3384-VQIAI5AAAAAYN2TPVCACTVHR" size="3">
+                                            <String value="[Victim]"/>
+                                            <String value="true"/>
+                                            <String value="Rel_ConnectPersonInvolvedVA"/>
+                                        </List>
+                                        <String field="Doc1721146082733-3304-VQIAI5AAAAAYN2TPVCACTVHR" value="true"/>
+                                    </LinkedMap>
+                                </KCXML>
+                            </HeaderField>
+                            <HeaderField field="recIDToCalcRoles">
+                                <KCXML>
+                                    <LinkedMap size="1">
+                                        <List field="Rec1721146082746-3384-VQIAI5AAAAAYN2TPVCACTVHR" size="1">
+                                            <String value="_Victim"/>
+                                        </List>
+                                    </LinkedMap>
+                                </KCXML>
+                            </HeaderField>
+                        </HeaderFields>
+                    </DocumentInfo>
+                    <DocumentBody field="body" formatVersion="1" showEmptyFields="false" showLabels="false" status="1044">
+                        <CompoundRecord ID="Rec1721146082733-3306-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" field="Person" hidden="false" highlight="false" status="1044">
+                            <SimpleRecord ID="Rec1721146082733-3307-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Integration" hidden="false" highlight="false" status="1052">
+                                <Primitive content="Complete" field="LastConnectPersonSearched" hidden="true" highlight="false" kind="SingleValue" status="1035">2024-07-16T16:52:13.000+01:00</Primitive>
+                                <Primitive content="Complete" field="CreateNewConnectPerson" hidden="true" highlight="false" kind="SingleValue" status="1034">Link existing</Primitive>
+                                <Primitive content="Complete" field="ConnectPersonIDLink" hidden="false" highlight="false" kind="SingleValue" status="1048">
+                                    <KCXML>
+                                        <Link label="Go to Person">
+                                            <SearchLinkData field="value" linkType="GetItemRequest" searchType="NORTHGATECONNECT_PERSON">
+                                                <DefaultItemRequestKey field="itemKey">
+                                                    <Integer field="object" value="4419398"/>
+                                                </DefaultItemRequestKey>
+                                            </SearchLinkData>
+                                        </Link>
+                                    </KCXML>
+                                </Primitive>
+                                <Primitive content="Complete" field="ConnectPersonGroupRef" hidden="true" highlight="false" kind="SingleValue" status="1034">4419398</Primitive>
+                                <Primitive content="Complete" field="Researched" hidden="true" highlight="false" kind="SingleValue" status="1034">true</Primitive>
+                            </SimpleRecord>
+                            <SimpleRecord ID="Rec1721146082735-3308-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Details" hidden="false" highlight="false" status="1052">
+                                <Primitive content="Complete" field="Title" hidden="false" highlight="false" kind="Structured" status="1052" text="Miss">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Miss</PickValue>
+                                        <PickValue name="Code">MISS</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="Forename" hidden="false" highlight="false" kind="SingleValue" status="1052">Meryem</Primitive>
+                                <Primitive content="Complete" field="Surname" hidden="false" highlight="false" kind="SingleValue" status="1052">RIASAT</Primitive>
+                                <Primitive content="Complete" field="Sex" hidden="false" highlight="false" kind="Structured" status="1052" text="Female">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Female</PickValue>
+                                        <PickValue name="Code">2</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="DateOfBirthKnown" hidden="false" highlight="false" kind="SingleValue" status="1052" value="true">Yes</Primitive>
+                                <Primitive content="Complete" field="DateOfBirth" hidden="false" highlight="false" kind="SingleValue" status="1052">1991-01-29T00:00:00.000</Primitive>
+                                <Primitive content="Complete" field="AgeCategory" hidden="true" highlight="false" kind="SingleValue" status="1034">Over 18</Primitive>
+                            </SimpleRecord>
+                            <SimpleRecord ID="Rec1721146082735-3309-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Address" hidden="false" highlight="false" status="1052">
+                                <Primitive content="Complete" field="AddressType" hidden="false" highlight="false" kind="SingleValue" status="1052">HOME ADDRESS</Primitive>
+                                <Primitive content="Complete" field="EditAddress" hidden="false" highlight="false" kind="SingleValue" status="1048" value="false">No</Primitive>
+                                <Primitive content="Complete" field="Postcode" hidden="false" highlight="false" kind="SingleValue" status="1049">S7 1SB</Primitive>
+                                <Primitive content="Complete" field="PremisesNumber" hidden="false" highlight="false" kind="SingleValue" status="1053">22</Primitive>
+                                <Primitive content="Complete" field="AddressLine1" hidden="false" highlight="false" kind="SingleValue" status="1049">RAVEN ROAD</Primitive>
+                                <Primitive content="Complete" field="Town" hidden="false" highlight="false" kind="SingleValue" status="1049">Sheffield</Primitive>
+                                <Primitive content="Complete" field="County" hidden="true" highlight="false" kind="SingleValue" status="1034">SHEFFIELD</Primitive>
+                                <Primitive content="Complete" field="GroupRef" hidden="true" highlight="false" kind="SingleValue" status="1034">1723300</Primitive>
+                                <Primitive content="Complete" field="Link" hidden="false" highlight="false" kind="SingleValue" status="1049">
+                                    <KCXML>
+                                        <Link label="Go to Location">
+                                            <SearchLinkData field="value" linkType="GetItemRequest" searchType="NORTHGATECONNECT_LOCATION">
+                                                <DefaultItemRequestKey field="itemKey">
+                                                    <Integer field="object" value="1723300"/>
+                                                </DefaultItemRequestKey>
+                                            </SearchLinkData>
+                                        </Link>
+                                    </KCXML>
+                                </Primitive>
+                                <Primitive content="Complete" field="NewAddress" hidden="true" highlight="false" kind="SingleValue" status="1034" value="false">No</Primitive>
+                                <Primitive content="Complete" field="Researched" hidden="true" highlight="false" kind="SingleValue" status="1034">true</Primitive>
+                            </SimpleRecord>
+                            <Primitive content="Complete" field="HasAdditionalAddresses" hidden="true" highlight="false" kind="SingleValue" status="1035" value="false">No</Primitive>
+                            <SimpleRecord ID="Rec1721146082735-3310-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="ContactDetails" hidden="false" highlight="false" status="1052">
+                                <Primitive content="Complete" field="Involvement" hidden="false" highlight="false" kind="Structured" status="1052" text="MOBILE">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">MOBILE</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="Type" hidden="false" highlight="false" kind="Structured" status="1052" text="Telephone Mobile">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Telephone Mobile</PickValue>
+                                        <PickValue name="Code">TELEPHONE MOBILE</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="Number" hidden="false" highlight="false" kind="SingleValue" status="1052">07510839685</Primitive>
+                                <Primitive content="Complete" field="ObjectRef" hidden="true" highlight="false" kind="SingleValue" status="1034">3518757</Primitive>
+                                <Primitive content="Complete" field="Link" hidden="false" highlight="false" kind="SingleValue" status="1048">
+                                    <KCXML>
+                                        <Link label="Go to Comms">
+                                            <SearchLinkData field="value" linkType="GetItemRequest" searchType="NORTHGATECONNECT_COMMS">
+                                                <DefaultItemRequestKey field="itemKey">
+                                                    <Integer field="object" value="3518757"/>
+                                                </DefaultItemRequestKey>
+                                            </SearchLinkData>
+                                        </Link>
+                                    </KCXML>
+                                </Primitive>
+                            </SimpleRecord>
+                            <SimpleRecord ID="Rec1721146082735-3311-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Description" hidden="false" highlight="false" status="1052">
+                                <Primitive content="Complete" field="EthnicAppearance" hidden="false" highlight="false" kind="Structured" status="1052" text="Asian">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Asian</PickValue>
+                                        <PickValue name="Code">4</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="SelfDefinedEthnicity" hidden="false" highlight="false" kind="Structured" status="1052" text="Pakistani">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Pakistani</PickValue>
+                                        <PickValue name="Code">A2</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                            </SimpleRecord>
+                            <SimpleRecord ID="Rec1721146082735-3312-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Employment" hidden="false" highlight="false" status="1052">
+                                <Primitive content="Complete" field="Occupation" hidden="false" highlight="false" kind="Structured" status="1052" text="Not Stated">
+                                    <StructuredPickItem>
+                                        <PickValue name="SubOccupationValue">Not Stated</PickValue>
+                                        <PickValue name="OccupationCode">90</PickValue>
+                                        <PickValue name="SubOccupationCode">6501</PickValue>
+                                        <PickValue name="OccupationValue">Not Stated</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="SubOccupation" hidden="false" highlight="false" kind="Structured" status="1052" text="Not Stated">
+                                    <StructuredPickItem>
+                                        <PickValue name="SubOccupationValue">Not Stated</PickValue>
+                                        <PickValue name="OccupationCode">90</PickValue>
+                                        <PickValue name="SubOccupationCode">6501</PickValue>
+                                        <PickValue name="OccupationValue">Not Stated</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="OccupationHidden" hidden="true" highlight="false" kind="Structured" status="1034" text="Armed Forces">
+                                    <StructuredPickItem>
+                                        <PickValue name="SubOccupationValue">Air Force Personnel</PickValue>
+                                        <PickValue name="OccupationCode">5</PickValue>
+                                        <PickValue name="SubOccupationCode">501</PickValue>
+                                        <PickValue name="OccupationValue">Armed Forces</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                            </SimpleRecord>
+                            <SimpleRecord ID="Rec1721146082735-3313-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="Nationality" hidden="false" highlight="false" status="1048">
+                                <Primitive content="Complete" field="Nationality" hidden="false" highlight="false" kind="Structured" status="1048" text="British">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">British</PickValue>
+                                        <PickValue name="Code">GBR</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                            </SimpleRecord>
+                            <SimpleRecord ID="Rec1721146082735-3315-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="OtherInfo" hidden="true" highlight="false" status="1034">
+                                <Primitive content="Complete" field="Language" hidden="false" highlight="false" kind="Structured" status="1052" text="English">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">English</PickValue>
+                                        <PickValue name="Code">ENGLISH</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="SexualOrientation" hidden="false" highlight="false" kind="Structured" status="1052" text="Heterosexual">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Heterosexual</PickValue>
+                                        <PickValue name="Code">HETEROSEXUAL</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                                <Primitive content="Complete" field="Religion" hidden="false" highlight="false" kind="Structured" status="1052" text="Muslim">
+                                    <StructuredPickItem>
+                                        <PickValue name="Value">Muslim</PickValue>
+                                        <PickValue name="Code">41</PickValue>
+                                    </StructuredPickItem>
+                                </Primitive>
+                            </SimpleRecord>
+                            <SimpleList content="Incomplete" field="Disabilities" hidden="false" highlight="false" status="1044">
+                                <SimpleRecord ID="Rec1721146082742-3317-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" hidden="false" highlight="false" status="1044" type="ConnectPerson_Disability">
+                                    <Primitive content="Complete" field="Disability" hidden="false" highlight="false" kind="Structured" status="1052" text="No Disability">
+                                        <StructuredPickItem>
+                                            <PickValue name="Value">No Disability</PickValue>
+                                            <PickValue name="Code">ND</PickValue>
+                                        </StructuredPickItem>
+                                    </Primitive>
+                                </SimpleRecord>
+                            </SimpleList>
+                        </CompoundRecord>
+                        <CompoundList content="Incomplete" field="Role" hidden="false" highlight="false" status="1028" statusID="Positive">
+                            <CompoundRecord ID="Rec1721146082746-3384-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" hidden="false" highlight="false" status="1044" type="Rel_ConnectPersonInvolvedVA">
+                                <Primitive content="Complete" field="Role" hidden="false" highlight="false" kind="MultipleValue" status="1052" text="[Victim]">
+                                    <Term>
+                                        <StructuredPickItem label="Victim">
+                                            <PickValue name="Value">Victim</PickValue>
+                                            <PickValue name="Code">VICTIM</PickValue>
+                                        </StructuredPickItem>
+                                    </Term>
+                                </Primitive>
+                                <SimpleRecord ID="Rec1721146082746-3385-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" field="PersonDetails" hidden="false" highlight="false" status="1044">
+                                    <SimpleRecord ID="Rec1721146082746-3387-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" field="Details" hidden="false" highlight="false" status="1044">
+                                        <Primitive content="Complete" field="DateOfBirthKnown" hidden="false" highlight="false" kind="SingleValue" status="1052" value="true">Yes</Primitive>
+                                    </SimpleRecord>
+                                    <SimpleRecord ID="Rec1721146082746-3388-VQIAI5AAAAAYN2TPVCACTVHR" content="Incomplete" field="Address" hidden="false" highlight="false" status="1028">
+                                        <Primitive content="Complete" field="EditAddress" hidden="true" highlight="false" kind="SingleValue" status="1034" value="true">Yes</Primitive>
+                                        <Primitive content="Complete" field="NewAddress" hidden="true" highlight="false" kind="SingleValue" status="1034" value="true">Yes</Primitive>
+                                    </SimpleRecord>
+                                </SimpleRecord>
+                                <SimpleRecord ID="Rec1721146082746-3394-VQIAI5AAAAAYN2TPVCACTVHR" content="Complete" field="ContractDetails" hidden="false" highlight="false" status="1052">
+                                    <Primitive content="Complete" field="PersonToBeUpdated" hidden="false" highlight="false" kind="Structured" status="1052" text="Opt in - Victim">
+                                        <StructuredPickItem>
+                                            <PickValue name="Value">Opt in - Victim</PickValue>
+                                            <PickValue name="Code">IN_VICTIM</PickValue>
+                                        </StructuredPickItem>
+                                    </Primitive>
+                                    <Primitive content="Complete" field="PreferredContactMethod" hidden="false" highlight="false" kind="Structured" status="1052" text="Telephone">
+                                        <StructuredPickItem>
+                                            <PickValue name="Code">TELEPHONE</PickValue>
+                                            <PickValue name="Value">Telephone</PickValue>
+                                        </StructuredPickItem>
+                                    </Primitive>
+                                    <Primitive content="Complete" field="FrequencyOfUpdates" hidden="true" highlight="false" kind="SingleValue" status="1034">28</Primitive>
+                                </SimpleRecord>
+                                <Primitive content="Complete" field="InvestigationCopied" hidden="true" highlight="false" kind="SingleValue" status="1034" value="true">Yes</Primitive>
+                                <Primitive content="Complete" field="IsComplete" hidden="true" highlight="false" kind="SingleValue" status="1035" value="false">No</Primitive>
+                                <Primitive content="Complete" field="RefDocumentID" hidden="true" highlight="false" kind="SingleValue" status="1051">Doc1721145678213-2609-VQIAI5AAAAAYN2TPVCACTVHR</Primitive>
+                                <Primitive content="Complete" field="RecordID" hidden="true" highlight="false" kind="SingleValue" status="1051">Rec1721146082746-3384-VQIAI5AAAAAYN2TPVCACTVHR</Primitive>
+                                <Primitive content="Complete" field="_CalculatedRoles_" hidden="true" highlight="false" kind="MultipleValue" status="1051" text="[_Victim]">
+                                    <Term>_Victim</Term>
+                                </Primitive>
+                            </CompoundRecord>
+                        </CompoundList>
+                    </DocumentBody>
+                </Document>
+            </ExportedDocument>
+        </List>
+        <List field="otherNonPoleDocs" size="0"/>
+        <List field="otherReferences" size="0"/>
+        <List field="trees" size="3">
+            <DefaultPoleReportTree>
+                <DefaultPoleReportRole childDocID="Doc1721145678282-2808-VQIAI5AAAAAYN2TPVCACTVHR" childDocLabel="Location " childDocSecondaryLabel="Location  (0928)" documentDetailsSection="Location" field="role" parentDocID="Doc1721145678213-2609-VQIAI5AAAAAYN2TPVCACTVHR" recordID="Rec1721145678290-2836-VQIAI5AAAAAYN2TPVCACTVHR" roleSummary="Incident Location">
+                    <List field="roles" size="1">
+                        <String value="Incident Location"/>
+                    </List>
+                </DefaultPoleReportRole>
+                <List field="subTrees" size="0"/>
+            </DefaultPoleReportTree>
+            <DefaultPoleReportTree>
+                <DefaultPoleReportRole childDocID="Doc1721146082733-3304-VQIAI5AAAAAYN2TPVCACTVHR" childDocLabel="Person: Meryem RIASAT" childDocSecondaryLabel="Person: Meryem RIASAT (0928)" documentDetailsSection="Person" field="role" parentDocID="Doc1721145678213-2609-VQIAI5AAAAAYN2TPVCACTVHR" recordID="Rec1721146082746-3384-VQIAI5AAAAAYN2TPVCACTVHR" roleSummary="[Victim]">
+                    <List field="roles" size="1">
+                        <String value="Victim"/>
+                    </List>
+                </DefaultPoleReportRole>
+                <List field="subTrees" size="0"/>
+            </DefaultPoleReportTree>
+            <DefaultPoleReportTree>
+                <DefaultPoleReportRole childDocID="Doc1721146102504-3419-VQIAI5AAAAAYN2TPVCACTVHR" childDocLabel="Person: Mehreen RIASAT" childDocSecondaryLabel="Person: Mehreen RIASAT (0928)" documentDetailsSection="Person" field="role" parentDocID="Doc1721145678213-2609-VQIAI5AAAAAYN2TPVCACTVHR" recordID="Rec1721146102517-3499-VQIAI5AAAAAYN2TPVCACTVHR" roleSummary="[Suspect]">
+                    <List field="roles" size="1">
+                        <String value="Suspect"/>
+                    </List>
+                </DefaultPoleReportRole>
+                <List field="subTrees" size="0"/>
+            </DefaultPoleReportTree>
+        </List>
+        <List field="mergedReportIDs" size="0"/>
+    </DefaultPoleReportData>
+</StoredReport>
